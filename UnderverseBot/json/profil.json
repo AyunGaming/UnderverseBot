@@ -1,0 +1,165 @@
+{
+    "profiles": [
+        {
+            "id": 855220403763675166,
+            "tuto": true,
+            "combat": true,
+            "inFight": false,
+            "isDead": true,
+            "name": "Ayuko",
+            "xp": 2297,
+            "max_xp": 2482,
+            "level": 2,
+            "max_hp": 100,
+            "hp": 100,
+            "atk": 17,
+            "def": 7,
+            "gold": 715,
+            "inventory": {
+                "tarte de toriel": 6,
+                "petite potion de soin": 20,
+                "Potion de soin moyenne": 5
+            }
+        },
+        {
+            "id": 772254592801046528,
+            "tuto": true,
+            "combat": true,
+            "inFight": false,
+            "isDead": false,
+            "name": "LawDust",
+            "xp": 7298,
+            "max_xp": 8368,
+            "level": 8,
+            "max_hp": 100,
+            "hp": 100,
+            "atk": 29,
+            "def": 19,
+            "gold": 2200,
+            "inventory": {
+                "tarte de toriel": 6,
+                "petite potion de soin": 20,
+                "Potion de soin moyenne": 5
+            }
+        },
+        {
+            "id": 817515954669879326,
+            "tuto": true,
+            "combat": true,
+            "inFight": false,
+            "isDead": true,
+            "name": "Sweet",
+            "xp": 1300,
+            "max_xp": 1622,
+            "level": 1,
+            "max_hp": 100,
+            "hp": 100,
+            "atk": 15,
+            "def": 5,
+            "gold": 40,
+            "inventory": {
+                "Tarte de Toriel": 6,
+                "Petite potion de soin": 23,
+                "Potion de soin moyenne": 16
+            }
+        },
+        {
+            "id": 777242155818680330,
+            "tuto": true,
+            "combat": true,
+            "inFight": false,
+            "isDead": true,
+            "name": "Ayun",
+            "xp": 1250,
+            "max_xp": 1622,
+            "level": 1,
+            "max_hp": 100,
+            "hp": 74,
+            "atk": 15,
+            "def": 5,
+            "gold": 150,
+            "inventory": {
+                "Tarte de Toriel": 1,
+                "Potion de soin moyenne": 2
+            }
+        },
+        {
+            "id": 380392633425461248,
+            "tuto": true,
+            "combat": true,
+            "inFight": false,
+            "isDead": false,
+            "name": "d4idai",
+            "xp": 0,
+            "max_xp": 1622,
+            "level": 1,
+            "max_hp": 100,
+            "hp": 100,
+            "atk": 15,
+            "def": 5,
+            "gold": 0,
+            "inventory": {
+                "Tarte de Toriel": 1,
+                "Petite potion de soin": 9
+            }
+        },
+        {
+            "id": 757612845859864777,
+            "tuto": true,
+            "combat": false,
+            "inFight": false,
+            "isDead": false,
+            "name": "jojo",
+            "xp": 0,
+            "max_xp": 1622,
+            "level": 1,
+            "max_hp": 100,
+            "hp": 100,
+            "atk": 15,
+            "def": 5,
+            "gold": 0,
+            "inventory": {
+                "Tarte de Toriel": 1
+            }
+        },
+        {
+            "id": 732545455719972914,
+            "tuto": true,
+            "combat": true,
+            "inFight": false,
+            "isDead": true,
+            "name": "Grigri_rouge_gorge",
+            "xp": 1545,
+            "max_xp": 1622,
+            "level": 1,
+            "max_hp": 100,
+            "hp": 100,
+            "atk": 15,
+            "def": 5,
+            "gold": 315,
+            "inventory": {
+                "Tarte de Toriel": 1
+            }
+        },
+        {
+            "id": 994015572201328740,
+            "tuto": true,
+            "combat": true,
+            "inFight": false,
+            "isDead": false,
+            "name": "la_journalist",
+            "xp": 120,
+            "max_xp": 1622,
+            "level": 1,
+            "max_hp": 100,
+            "hp": 100,
+            "atk": 15,
+            "def": 5,
+            "gold": 35,
+            "inventory": {
+                "Tarte de Toriel": 1,
+                "Petite potion de soin": 4
+            }
+        }
+    ]
+}

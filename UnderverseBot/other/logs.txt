@@ -1,0 +1,2583 @@
+############# Logs de Underverse bot #############
+
+
+	04-04-2023 20:11:09 [BOT]: Undertale Bot est lancé !
+
+
+	04-04-2023 20:11:36 [BOT]: Undertale Bot est lancé !
+
+
+	04-04-2023 22:15:30 [BOT]: Undertale Bot est lancé !
+		04-04-2023 22:17:09 [COMMAND]: Ayun#9191 a utilisé la commande !profil !
+			04-04-2023 22:17:09 [ERROR]: Le profil correspondant au membre d'id 777242155818680330 n'existe pas !
+
+		04-04-2023 22:17:15 [COMMAND]: Ayun#9191 a utilisé la commande !start !
+			04-04-2023 22:17:15 [SUCCESS]: Le profil de Ayun#9191 a bien été créé !
+
+		04-04-2023 22:17:18 [COMMAND]: Ayun#9191 a utilisé la commande !tuto !
+			04-04-2023 22:17:18 [SUCCESS]: Ayun a obtenu 1 Tarte de Toriel
+
+		04-04-2023 22:17:21 [COMMAND]: Ayun#9191 a utilisé la commande !combat !
+		04-04-2023 22:18:43 [COMMAND]: Ayun#9191 a utilisé la commande !combat !
+			04-04-2023 22:18:43 [INFO]: Ayun entre en combat !
+				04-04-2023 22:18:46 [INFO]: Ayun a perdu 4 PV !
+				04-04-2023 22:18:46 [INFO]: Ayun a raté son attaque !
+				04-04-2023 22:18:48 [INFO]: Ayun a perdu 3 PV !
+				04-04-2023 22:18:48 [INFO]: Froggit a perdu 4 PV !
+				04-04-2023 22:18:49 [INFO]: Froggit a perdu 8 PV !
+				04-04-2023 22:18:49 [INFO]: Ayun a perdu 4 PV !
+				04-04-2023 22:18:50 [INFO]: Froggit a perdu 8 PV !
+				04-04-2023 22:18:50 [INFO]: Ayun a perdu 4 PV !
+				04-04-2023 22:18:52 [INFO]: Ayun a perdu 3 PV !
+				04-04-2023 22:18:52 [INFO]: Froggit a perdu 8 PV !
+				04-04-2023 22:18:53 [INFO]: Ayun a perdu 3 PV !
+				04-04-2023 22:18:53 [INFO]: Froggit a perdu 4 PV !
+				04-04-2023 22:18:54 [INFO]: Froggit a perdu 8 PV !
+				04-04-2023 22:18:54 [INFO]: Ayun a perdu 6 PV !
+				04-04-2023 22:18:56 [INFO]: Froggit a perdu 7 PV !
+				04-04-2023 22:18:56 [INFO]: Ayun a perdu 7 PV !
+				04-04-2023 22:18:57 [INFO]: Ayun a perdu 4 PV !
+				04-04-2023 22:18:57 [INFO]: Froggit a perdu 8 PV !
+				04-04-2023 22:18:59 [INFO]: Froggit a perdu 4 PV !
+				04-04-2023 22:18:59 [INFO]: Ayun a perdu 4 PV !
+				04-04-2023 22:19:00 [INFO]: Ayun a perdu 3 PV !
+				04-04-2023 22:19:00 [INFO]: Froggit a perdu 4 PV !
+				04-04-2023 22:19:02 [INFO]: Ayun a perdu 7 PV !
+				04-04-2023 22:19:02 [INFO]: Froggit a perdu 4 PV !
+				04-04-2023 22:19:02 [INFO]: Froggit est mort !
+					04-04-2023 22:19:02 [INFO]: Ayun a gagné 85 xp et 20 gold
+
+		04-04-2023 22:20:42 [COMMAND]: Ayun#9191 a utilisé la commande !inv !
+		04-04-2023 22:21:33 [COMMAND]: LawDust#0967 a utilisé la commande !profil !
+		04-04-2023 22:21:36 [COMMAND]: LawDust#0967 a utilisé la commande !inv !
+		04-04-2023 22:26:56 [ERROR]: Ayun#9191 a entré la commande !comba qui est invalide !
+		04-04-2023 22:26:58 [COMMAND]: Ayun#9191 a utilisé la commande !combat !
+			04-04-2023 22:26:58 [INFO]: Ayun entre en combat !
+				04-04-2023 22:27:01 [INFO]: Calotte glacée a perdu 3 PV !
+				04-04-2023 22:27:01 [INFO]: Ayun a perdu 5 PV !
+				04-04-2023 22:27:02 [INFO]: Calotte glacée a perdu 3 PV !
+				04-04-2023 22:27:02 [INFO]: Ayun a perdu 8 PV !
+				04-04-2023 22:27:04 [INFO]: Calotte glacée a raté son attaque !
+				04-04-2023 22:27:04 [INFO]: Calotte glacée a perdu 4 PV !
+				04-04-2023 22:27:07 [INFO]: Calotte glacée a perdu 3 PV !
+				04-04-2023 22:27:07 [INFO]: Ayun a perdu 4 PV !
+				04-04-2023 22:27:09 [INFO]: Calotte glacée a raté son attaque !
+				04-04-2023 22:27:09 [INFO]: Calotte glacée a perdu 6 PV !
+				04-04-2023 22:27:11 [INFO]: Calotte glacée a perdu 7 PV !
+				04-04-2023 22:27:11 [INFO]: Calotte glacée a raté son attaque !
+				04-04-2023 22:27:12 [INFO]: Ayun a perdu 4 PV !
+				04-04-2023 22:27:12 [INFO]: Calotte glacée a perdu 8 PV !
+				04-04-2023 22:27:14 [INFO]: Calotte glacée a perdu 3 PV !
+				04-04-2023 22:27:14 [INFO]: Ayun a perdu 5 PV !
+				04-04-2023 22:27:15 [INFO]: Calotte glacée a perdu 7 PV !
+				04-04-2023 22:27:16 [INFO]: Calotte glacée a raté son attaque !
+				04-04-2023 22:27:17 [INFO]: Calotte glacée a perdu 3 PV !
+				04-04-2023 22:27:17 [INFO]: Ayun a perdu 4 PV !
+				04-04-2023 22:27:19 [INFO]: Ayun a perdu 5 PV !
+				04-04-2023 22:27:19 [INFO]: Ayun a raté son attaque !
+				04-04-2023 22:27:20 [INFO]: Ayun a perdu 4 PV !
+				04-04-2023 22:27:20 [INFO]: Calotte glacée a perdu 3 PV !
+				04-04-2023 22:27:22 [INFO]: Calotte glacée a perdu 8 PV !
+				04-04-2023 22:27:22 [INFO]: Ayun a perdu 4 PV !
+				04-04-2023 22:27:23 [INFO]: Ayun a perdu 4 PV !
+				04-04-2023 22:27:23 [INFO]: Calotte glacée a perdu 3 PV !
+				04-04-2023 22:27:25 [INFO]: Ayun a perdu 4 PV !
+				04-04-2023 22:27:25 [INFO]: Calotte glacée a perdu 3 PV !
+				04-04-2023 22:27:27 [INFO]: Ayun a perdu 5 PV !
+				04-04-2023 22:27:27 [INFO]: Ayun a raté son attaque !
+				04-04-2023 22:27:28 [INFO]: Ayun a perdu 5 PV !
+				04-04-2023 22:27:28 [INFO]: Calotte glacée a perdu 3 PV !
+				04-04-2023 22:27:30 [INFO]: Calotte glacée a perdu 7 PV !
+				04-04-2023 22:27:30 [INFO]: Ayun a perdu 8 PV !
+				04-04-2023 22:27:32 [INFO]: Ayun a perdu 9 PV !
+				04-04-2023 22:27:32 [INFO]: Calotte glacée a perdu 6 PV !
+				04-04-2023 22:27:34 [INFO]: Ayun a perdu 8 PV !
+				04-04-2023 22:27:34 [INFO]: Ayun a raté son attaque !
+				04-04-2023 22:27:36 [INFO]: Calotte glacée a perdu 3 PV !
+				04-04-2023 22:27:36 [INFO]: Ayun a perdu 8 PV !
+				04-04-2023 22:27:39 [INFO]: Petite potion de soin a été utilisé par Ayun il a gagné 10 et a maintenant 16
+				04-04-2023 22:27:43 [INFO]: Petite potion de soin a été utilisé par Ayun il a gagné 10 et a maintenant 26
+				04-04-2023 22:27:45 [INFO]: Calotte glacée a perdu 3 PV !
+				04-04-2023 22:27:45 [INFO]: Ayun a perdu 8 PV !
+				04-04-2023 22:27:47 [INFO]: Calotte glacée a perdu 7 PV !
+				04-04-2023 22:27:47 [INFO]: Ayun a perdu 4 PV !
+				04-04-2023 22:27:49 [INFO]: Ayun a perdu 5 PV !
+				04-04-2023 22:27:49 [INFO]: Calotte glacée a perdu 3 PV !
+				04-04-2023 22:27:50 [INFO]: Ayun a perdu 8 PV !
+				04-04-2023 22:27:50 [INFO]: Ayun a raté son attaque !
+				04-04-2023 22:28:00 [INFO]: Petite potion de soin a été utilisé par Ayun il a gagné 10 et a maintenant 11
+				04-04-2023 22:28:02 [INFO]: Ayun a perdu 7 PV !
+				04-04-2023 22:28:03 [INFO]: Ayun a raté son attaque !
+				04-04-2023 22:28:06 [INFO]: Petite potion de soin a été utilisé par Ayun il a gagné 10 et a maintenant 14
+				04-04-2023 22:28:08 [INFO]: Ayun a perdu 8 PV !
+				04-04-2023 22:28:08 [INFO]: Ayun a raté son attaque !
+				04-04-2023 22:28:13 [INFO]: Petite potion de soin a été utilisé par Ayun il a gagné 10 et a maintenant 16
+				04-04-2023 22:28:15 [INFO]: Ayun a raté son attaque !
+				04-04-2023 22:28:15 [INFO]: Ayun a perdu 4 PV !
+				04-04-2023 22:28:18 [INFO]: Calotte glacée a perdu 7 PV !
+				04-04-2023 22:28:18 [INFO]: Calotte glacée est mort !
+					04-04-2023 22:28:18 [INFO]: Ayun a gagné 95 xp et 35 gold
+
+		04-04-2023 22:28:23 [COMMAND]: Ayun#9191 a utilisé la commande !profil !
+		04-04-2023 22:32:19 [COMMAND]: Ayun#9191 a utilisé la commande !combat !
+			04-04-2023 22:32:19 [INFO]: Ayun entre en combat !
+				04-04-2023 22:32:22 [INFO]: Commandogue a perdu 5 PV !
+				04-04-2023 22:32:22 [INFO]: Ayun a perdu 3 PV !
+				04-04-2023 22:32:23 [INFO]: Ayun a perdu 5 PV !
+				04-04-2023 22:32:23 [INFO]: Commandogue a perdu 4 PV !
+				04-04-2023 22:32:24 [INFO]: Commandogue a perdu 4 PV !
+				04-04-2023 22:32:24 [INFO]: Ayun a perdu 4 PV !
+				04-04-2023 22:32:26 [INFO]: Ayun a perdu 2 PV !
+				04-04-2023 22:32:26 [INFO]: Commandogue a perdu 4 PV !
+				04-04-2023 22:32:27 [INFO]: Ayun a perdu 2 PV !
+				04-04-2023 22:32:27 [INFO]: Commandogue a perdu 5 PV !
+				04-04-2023 22:32:28 [INFO]: Commandogue a perdu 9 PV !
+				04-04-2023 22:32:28 [INFO]: Ayun a perdu 3 PV !
+				04-04-2023 22:32:29 [INFO]: Ayun a perdu 2 PV !
+				04-04-2023 22:32:29 [INFO]: Commandogue a perdu 5 PV !
+				04-04-2023 22:32:32 [INFO]: Ayun a perdu 2 PV !
+				04-04-2023 22:32:32 [INFO]: Commandogue a perdu 10 PV !
+				04-04-2023 22:32:33 [INFO]: Commandogue a perdu 5 PV !
+				04-04-2023 22:32:33 [INFO]: Commandogue est mort !
+					04-04-2023 22:32:34 [INFO]: Ayun a gagné 50 xp et 20 gold
+
+		04-04-2023 22:32:38 [COMMAND]: Ayun#9191 a utilisé la commande !combat !
+			04-04-2023 22:32:38 [INFO]: Ayun entre en combat !
+				04-04-2023 22:32:40 [INFO]: Ayun a perdu 4 PV !
+				04-04-2023 22:32:40 [INFO]: Froggit a perdu 3 PV !
+				04-04-2023 22:32:41 [INFO]: Ayun a perdu 4 PV !
+				04-04-2023 22:32:41 [INFO]: Froggit a perdu 4 PV !
+				04-04-2023 22:32:43 [INFO]: Ayun a perdu 7 PV !
+				04-04-2023 22:32:43 [INFO]: Froggit a perdu 8 PV !
+				04-04-2023 22:32:45 [INFO]: Ayun a raté son attaque !
+				04-04-2023 22:32:45 [INFO]: Ayun a perdu 4 PV !
+				04-04-2023 22:32:48 [INFO]: Ayun a perdu 4 PV !
+				04-04-2023 22:32:48 [INFO]: Froggit a perdu 8 PV !
+				04-04-2023 22:32:50 [INFO]: Froggit a perdu 4 PV !
+				04-04-2023 22:32:50 [INFO]: Ayun a perdu 4 PV !
+				04-04-2023 22:32:51 [INFO]: Ayun a perdu 4 PV !
+				04-04-2023 22:32:51 [INFO]: Froggit a perdu 4 PV !
+				04-04-2023 22:32:52 [INFO]: Ayun a perdu 4 PV !
+				04-04-2023 22:32:52 [INFO]: Froggit a perdu 4 PV !
+				04-04-2023 22:32:54 [INFO]: Froggit a perdu 3 PV !
+				04-04-2023 22:32:54 [INFO]: Ayun a perdu 6 PV !
+				04-04-2023 22:32:55 [INFO]: Froggit a perdu 3 PV !
+				04-04-2023 22:32:55 [INFO]: Ayun a perdu 4 PV !
+				04-04-2023 22:32:57 [INFO]: Froggit a raté son attaque !
+				04-04-2023 22:32:57 [INFO]: Froggit a perdu 3 PV !
+				04-04-2023 22:32:58 [INFO]: Ayun a perdu 6 PV !
+				04-04-2023 22:32:58 [INFO]: Froggit a perdu 8 PV !
+				04-04-2023 22:32:59 [INFO]: Ayun a perdu 7 PV !
+				04-04-2023 22:32:59 [INFO]: Froggit a perdu 4 PV !
+				04-04-2023 22:33:01 [INFO]: Ayun a raté son attaque !
+				04-04-2023 22:33:01 [INFO]: Ayun a perdu 4 PV !
+				04-04-2023 22:33:02 [INFO]: Froggit a perdu 4 PV !
+				04-04-2023 22:33:03 [INFO]: Froggit a raté son attaque !
+				04-04-2023 22:33:04 [INFO]: Froggit a raté son attaque !
+				04-04-2023 22:33:05 [INFO]: Ayun a raté son attaque !
+				04-04-2023 22:33:06 [INFO]: Ayun a perdu 6 PV !
+				04-04-2023 22:33:06 [INFO]: Froggit a perdu 3 PV !
+				04-04-2023 22:33:09 [INFO]: Ayun a perdu 6 PV !
+				04-04-2023 22:33:09 [INFO]: Froggit a perdu 4 PV !
+				04-04-2023 22:33:09 [INFO]: Froggit est mort !
+					04-04-2023 22:33:09 [INFO]: Ayun a gagné 85 xp et 20 gold
+
+		04-04-2023 22:40:26 [COMMAND]: D4IDAI#1903 a utilisé la commande !start !
+			04-04-2023 22:40:26 [SUCCESS]: Le profil de D4IDAI#1903 a bien été créé !
+
+		04-04-2023 22:40:34 [COMMAND]: D4IDAI#1903 a utilisé la commande !tuto !
+			04-04-2023 22:40:34 [SUCCESS]: d4idai a obtenu 1 Tarte de Toriel
+
+		04-04-2023 22:41:45 [COMMAND]: D4IDAI#1903 a utilisé la commande !profil !
+		04-04-2023 22:42:07 [COMMAND]: D4IDAI#1903 a utilisé la commande !inv !
+		04-04-2023 22:43:14 [COMMAND]: D4IDAI#1903 a utilisé la commande !magasin !
+			04-04-2023 22:43:21 [ERROR]: d4idai a tenté d'acheté Petite potion de soin au prix de 25 alors qu'il n'avait que 0
+		04-04-2023 22:44:04 [COMMAND]: D4IDAI#1903 a utilisé la commande !combat !
+		04-04-2023 22:46:06 [COMMAND]: D4IDAI#1903 a utilisé la commande !combat !
+			04-04-2023 22:46:06 [INFO]: d4idai entre en combat !
+				04-04-2023 22:46:11 [INFO]: Froggit a perdu 4 PV !
+				04-04-2023 22:46:11 [INFO]: Froggit a raté son attaque !
+				04-04-2023 22:46:15 [INFO]: d4idai a perdu 4 PV !
+				04-04-2023 22:46:15 [INFO]: Froggit a perdu 3 PV !
+				04-04-2023 22:46:19 [INFO]: d4idai a perdu 4 PV !
+				04-04-2023 22:46:19 [INFO]: Froggit a perdu 8 PV !
+				04-04-2023 22:46:21 [INFO]: d4idai a perdu 4 PV !
+				04-04-2023 22:46:21 [INFO]: Froggit a perdu 3 PV !
+				04-04-2023 22:46:28 [INFO]: Froggit a raté son attaque !
+				04-04-2023 22:46:28 [INFO]: Froggit a perdu 8 PV !
+				04-04-2023 22:46:57 [INFO]: Petite potion de soin a été utilisé par d4idai il a gagné 10 et a maintenant 98
+				04-04-2023 22:47:02 [INFO]: Froggit a perdu 4 PV !
+				04-04-2023 22:47:02 [INFO]: d4idai a perdu 3 PV !
+				04-04-2023 22:47:05 [INFO]: d4idai a pris la fuite !
+
+		04-04-2023 22:54:15 [COMMAND]: Ayun#9191 a utilisé la commande !combat !
+			04-04-2023 22:54:15 [INFO]: Ayun entre en combat !
+				04-04-2023 22:54:20 [INFO]: Ayun a pris la fuite !
+
+		04-04-2023 22:56:37 [COMMAND]: ‧̍̊˙· 𓆝.°𝕊𝕨𝕖𝕖𝕥✩‧₊˚#0119 a utilisé la commande !profil !
+		05-04-2023 12:02:16 [ERROR]: Ayun#9191 a entré la commande ! qui est invalide !
+		05-04-2023 12:05:42 [COMMAND]: Ayun#9191 a utilisé la commande !combat !
+			05-04-2023 12:05:42 [INFO]: Ayun entre en combat !
+				05-04-2023 12:05:44 [INFO]: Papyrus a perdu 3 PV !
+				05-04-2023 12:05:44 [INFO]: Ayun a perdu 10 PV !
+				05-04-2023 12:05:46 [INFO]: Papyrus a perdu 3 PV !
+				05-04-2023 12:05:46 [INFO]: Ayun a perdu 9 PV !
+				05-04-2023 12:05:48 [INFO]: Ayun a perdu 5 PV !
+				05-04-2023 12:05:48 [INFO]: Papyrus a perdu 3 PV !
+				05-04-2023 12:05:50 [INFO]: Papyrus a perdu 3 PV !
+				05-04-2023 12:05:50 [INFO]: Ayun a perdu 9 PV !
+				05-04-2023 12:05:52 [INFO]: Papyrus a perdu 3 PV !
+				05-04-2023 12:05:52 [INFO]: Ayun a perdu 4 PV !
+				05-04-2023 12:05:54 [INFO]: Ayun a perdu 5 PV !
+				05-04-2023 12:05:54 [INFO]: Papyrus a perdu 3 PV !
+				05-04-2023 12:05:56 [INFO]: Ayun a raté son attaque !
+				05-04-2023 12:05:56 [INFO]: Ayun a perdu 8 PV !
+				05-04-2023 12:05:58 [INFO]: Papyrus a raté son attaque !
+				05-04-2023 12:05:58 [INFO]: Papyrus a perdu 7 PV !
+				05-04-2023 12:06:00 [INFO]: Ayun a perdu 9 PV !
+				05-04-2023 12:06:00 [INFO]: Papyrus a perdu 3 PV !
+				05-04-2023 12:06:02 [INFO]: Ayun a perdu 9 PV !
+				05-04-2023 12:06:02 [INFO]: Papyrus a perdu 3 PV !
+				05-04-2023 12:06:04 [INFO]: Ayun a raté son attaque !
+				05-04-2023 12:06:04 [INFO]: Ayun a perdu 5 PV !
+				05-04-2023 12:06:15 [INFO]: Ayun a perdu 10 PV !
+				05-04-2023 12:06:15 [INFO]: Papyrus a perdu 6 PV !
+				05-04-2023 12:06:18 [INFO]: Ayun a perdu 8 PV !
+				05-04-2023 12:06:18 [INFO]: Papyrus a perdu 3 PV !
+				05-04-2023 12:06:22 [INFO]: Petite potion de soin a été utilisé par Ayun il a gagné 10 et a maintenant 19
+				05-04-2023 12:06:24 [INFO]: Ayun a perdu 5 PV !
+				05-04-2023 12:06:24 [INFO]: Papyrus a perdu 3 PV !
+				05-04-2023 12:06:29 [INFO]: Petite potion de soin a été utilisé par Ayun il a gagné 10 et a maintenant 24
+				05-04-2023 12:06:31 [INFO]: Ayun a perdu 5 PV !
+				05-04-2023 12:06:31 [INFO]: Papyrus a perdu 3 PV !
+				05-04-2023 12:06:32 [INFO]: Papyrus a perdu 3 PV !
+				05-04-2023 12:06:32 [INFO]: Ayun a perdu 4 PV !
+				05-04-2023 12:06:35 [INFO]: Ayun a pris la fuite !
+
+		05-04-2023 14:47:11 [COMMAND]: LawDust#0967 a utilisé la commande !combat !
+
+
+	05-04-2023 14:49:12 [BOT]: Undertale Bot est lancé !
+		06-04-2023 10:38:46 [COMMAND]: Ayun#9191 a utilisé la commande !combat !
+			06-04-2023 10:38:46 [INFO]: Ayun entre en combat !
+				06-04-2023 10:38:48 [INFO]: Ayun a perdu 2 PV !
+				06-04-2023 10:38:48 [INFO]: Aaron a perdu 3 PV !
+				06-04-2023 10:38:49 [INFO]: Aaron a perdu 4 PV !
+				06-04-2023 10:38:49 [INFO]: Ayun a perdu 2 PV !
+				06-04-2023 10:38:51 [INFO]: Aaron a perdu 4 PV !
+				06-04-2023 10:38:51 [INFO]: Ayun a perdu 5 PV !
+				06-04-2023 10:38:52 [INFO]: Ayun a perdu 2 PV !
+				06-04-2023 10:38:52 [INFO]: Ayun a raté son attaque !
+				06-04-2023 10:38:54 [INFO]: Ayun a perdu 2 PV !
+				06-04-2023 10:38:54 [INFO]: Aaron a perdu 4 PV !
+				06-04-2023 10:38:57 [INFO]: Aaron a perdu 3 PV !
+				06-04-2023 10:38:57 [INFO]: Ayun a perdu 5 PV !
+				06-04-2023 10:38:59 [INFO]: Ayun a raté son attaque !
+				06-04-2023 10:38:59 [INFO]: Ayun a perdu 2 PV !
+				06-04-2023 10:39:01 [INFO]: Aaron a raté son attaque !
+				06-04-2023 10:39:01 [INFO]: Aaron a perdu 4 PV !
+				06-04-2023 10:39:03 [INFO]: Ayun a perdu 3 PV !
+				06-04-2023 10:39:03 [INFO]: Aaron a perdu 7 PV !
+				06-04-2023 10:39:05 [INFO]: Ayun a perdu 2 PV !
+				06-04-2023 10:39:05 [INFO]: Aaron a perdu 4 PV !
+				06-04-2023 10:39:06 [INFO]: Aaron a perdu 4 PV !
+				06-04-2023 10:39:06 [INFO]: Ayun a perdu 2 PV !
+				06-04-2023 10:39:08 [INFO]: Aaron a perdu 4 PV !
+				06-04-2023 10:39:08 [INFO]: Ayun a perdu 2 PV !
+				06-04-2023 10:39:09 [INFO]: Aaron a perdu 4 PV !
+				06-04-2023 10:39:09 [INFO]: Ayun a perdu 5 PV !
+				06-04-2023 10:39:11 [INFO]: Aaron a perdu 8 PV !
+				06-04-2023 10:39:11 [INFO]: Aaron est mort !
+					06-04-2023 10:39:11 [INFO]: Ayun a gagné 75 xp et 10 gold
+
+		06-04-2023 10:39:14 [COMMAND]: Ayun#9191 a utilisé la commande !profil !
+		06-04-2023 10:39:22 [COMMAND]: Ayun#9191 a utilisé la commande !profil !
+		06-04-2023 10:39:26 [COMMAND]: Ayun#9191 a utilisé la commande !combat !
+			06-04-2023 10:39:26 [INFO]: Ayun entre en combat !
+				06-04-2023 10:39:29 [INFO]: Calotte glacée a perdu 3 PV !
+				06-04-2023 10:39:29 [INFO]: Ayun a perdu 4 PV !
+				06-04-2023 10:39:30 [INFO]: Calotte glacée a perdu 3 PV !
+				06-04-2023 10:39:30 [INFO]: Ayun a perdu 7 PV !
+				06-04-2023 10:39:31 [INFO]: Calotte glacée a perdu 3 PV !
+				06-04-2023 10:39:31 [INFO]: Calotte glacée a raté son attaque !
+				06-04-2023 10:39:33 [INFO]: Ayun a perdu 9 PV !
+				06-04-2023 10:39:33 [INFO]: Ayun a raté son attaque !
+				06-04-2023 10:39:35 [INFO]: Ayun a perdu 4 PV !
+				06-04-2023 10:39:35 [INFO]: Ayun a raté son attaque !
+				06-04-2023 10:39:37 [INFO]: Calotte glacée a perdu 3 PV !
+				06-04-2023 10:39:37 [INFO]: Ayun a perdu 4 PV !
+				06-04-2023 10:39:38 [INFO]: Calotte glacée a perdu 4 PV !
+				06-04-2023 10:39:38 [INFO]: Ayun a perdu 5 PV !
+				06-04-2023 10:39:40 [INFO]: Ayun a perdu 5 PV !
+				06-04-2023 10:39:40 [INFO]: Calotte glacée a perdu 8 PV !
+				06-04-2023 10:39:41 [INFO]: Calotte glacée a raté son attaque !
+				06-04-2023 10:39:41 [INFO]: Calotte glacée a perdu 3 PV !
+				06-04-2023 10:39:43 [INFO]: Ayun a raté son attaque !
+				06-04-2023 10:39:43 [INFO]: Ayun a perdu 4 PV !
+
+		07-04-2023 00:52:21 [COMMAND]: LawDust#0967 a utilisé la commande !combat !
+
+
+	07-04-2023 00:54:25 [BOT]: Undertale Bot est lancé !
+		07-04-2023 10:17:17 [COMMAND]: Ayun#9191 a utilisé la commande !profil !
+		07-04-2023 18:51:34 [COMMAND]: Ayun#9191 a utilisé la commande !combat !
+			07-04-2023 18:51:34 [INFO]: Ayun entre en combat !
+				07-04-2023 18:51:40 [INFO]: Ayun a pris la fuite !
+
+
+	07-04-2023 18:58:25 [BOT]: Undertale Bot est lancé !
+		07-04-2023 20:14:24 [COMMAND]: Ayun#9191 a utilisé la commande !combat !
+			07-04-2023 20:14:24 [INFO]: Ayun entre en combat !
+				07-04-2023 20:14:26 [INFO]: Ayun a perdu 10 PV !
+				07-04-2023 20:14:26 [INFO]: Ayun a raté son attaque !
+				07-04-2023 20:14:28 [INFO]: Papyrus a perdu 3 PV !
+				07-04-2023 20:14:28 [INFO]: Ayun a perdu 5 PV !
+				07-04-2023 20:14:30 [INFO]: Ayun a perdu 5 PV !
+				07-04-2023 20:14:30 [INFO]: Papyrus a perdu 3 PV !
+				07-04-2023 20:14:31 [INFO]: Ayun a perdu 10 PV !
+				07-04-2023 20:14:31 [INFO]: Papyrus a perdu 3 PV !
+				07-04-2023 20:14:33 [INFO]: Ayun a perdu 5 PV !
+				07-04-2023 20:14:33 [INFO]: Papyrus a perdu 3 PV !
+				07-04-2023 20:14:34 [INFO]: Papyrus a perdu 6 PV !
+				07-04-2023 20:14:34 [INFO]: Ayun a perdu 5 PV !
+				07-04-2023 20:14:36 [INFO]: Papyrus a perdu 6 PV !
+				07-04-2023 20:14:36 [INFO]: Ayun a perdu 9 PV !
+				07-04-2023 20:14:37 [INFO]: Ayun a raté son attaque !
+				07-04-2023 20:14:37 [INFO]: Ayun a perdu 9 PV !
+				07-04-2023 20:14:39 [INFO]: Ayun a perdu 9 PV !
+				07-04-2023 20:14:39 [INFO]: Ayun a raté son attaque !
+				07-04-2023 20:14:41 [INFO]: Papyrus a perdu 3 PV !
+				07-04-2023 20:14:41 [INFO]: Ayun a perdu 5 PV !
+				07-04-2023 20:14:45 [INFO]: Ayun a raté son attaque !
+				07-04-2023 20:14:45 [INFO]: Ayun a perdu 9 PV !
+				07-04-2023 20:14:46 [INFO]: Ayun a pris la fuite !
+
+		07-04-2023 20:14:50 [COMMAND]: Ayun#9191 a utilisé la commande !inv !
+		07-04-2023 20:14:56 [COMMAND]: Ayun#9191 a utilisé la commande !magasin !
+		08-04-2023 21:51:45 [ERROR]: ✩┄★• ꯱ꪮꪶꪶꪮꪹꫀ •★┄✩#1133 a entré la commande ! qui est invalide !
+
+
+	10-04-2023 02:27:41 [BOT]: Undertale Bot est lancé !
+		23-04-2023 18:59:30 [COMMAND]: Ayun#9191 a utilisé la commande !combat !
+			23-04-2023 18:59:30 [INFO]: Ayun entre en combat !
+				23-04-2023 18:59:33 [INFO]: Froggit a perdu 7 PV !
+				23-04-2023 18:59:33 [INFO]: Ayun a perdu 7 PV !
+				23-04-2023 18:59:34 [INFO]: Ayun a perdu 3 PV !
+				23-04-2023 18:59:34 [INFO]: Froggit a perdu 4 PV !
+				23-04-2023 18:59:36 [INFO]: Froggit a perdu 4 PV !
+				23-04-2023 18:59:36 [INFO]: Ayun a perdu 3 PV !
+				23-04-2023 18:59:39 [INFO]: Froggit a perdu 4 PV !
+				23-04-2023 18:59:39 [INFO]: Ayun a perdu 7 PV !
+				23-04-2023 18:59:41 [INFO]: Froggit a raté son attaque !
+				23-04-2023 18:59:41 [INFO]: Ayun a raté son attaque !
+				23-04-2023 18:59:43 [INFO]: Froggit a perdu 7 PV !
+				23-04-2023 18:59:44 [INFO]: Froggit a raté son attaque !
+				23-04-2023 18:59:46 [INFO]: Froggit a perdu 7 PV !
+				23-04-2023 18:59:46 [INFO]: Ayun a perdu 3 PV !
+				23-04-2023 18:59:47 [INFO]: Froggit a perdu 7 PV !
+				23-04-2023 18:59:47 [INFO]: Ayun a perdu 4 PV !
+				23-04-2023 18:59:49 [INFO]: Ayun a perdu 6 PV !
+				23-04-2023 18:59:49 [INFO]: Froggit a perdu 3 PV !
+				23-04-2023 18:59:51 [INFO]: Froggit a perdu 8 PV !
+				23-04-2023 18:59:51 [INFO]: Ayun a perdu 3 PV !
+				23-04-2023 18:59:53 [INFO]: Ayun a raté son attaque !
+				23-04-2023 18:59:53 [INFO]: Ayun a perdu 3 PV !
+				23-04-2023 18:59:55 [INFO]: Ayun a perdu 4 PV !
+				23-04-2023 18:59:55 [INFO]: Froggit a perdu 3 PV !
+				23-04-2023 18:59:57 [INFO]: Ayun a perdu 3 PV !
+				23-04-2023 18:59:58 [INFO]: Ayun a raté son attaque !
+				23-04-2023 19:00:00 [INFO]: Ayun a perdu 4 PV !
+				23-04-2023 19:00:00 [INFO]: Froggit a perdu 4 PV !
+				23-04-2023 19:00:02 [INFO]: Froggit a perdu 4 PV !
+				23-04-2023 19:00:02 [INFO]: Froggit a raté son attaque !
+				23-04-2023 19:00:04 [INFO]: Ayun a perdu 4 PV !
+				23-04-2023 19:00:04 [INFO]: Froggit a perdu 8 PV !
+				23-04-2023 19:00:04 [INFO]: Froggit est mort !
+					23-04-2023 19:00:04 [INFO]: Ayun a gagné 85 xp et 20 gold
+
+		23-04-2023 19:16:17 [ERROR]: Ayun#9191 a entré la commande !profile qui est invalide !
+		23-04-2023 19:16:30 [COMMAND]: Ayun#9191 a utilisé la commande !profil !
+		23-04-2023 19:16:48 [COMMAND]: Ayun#9191 a utilisé la commande !combat !
+			23-04-2023 19:16:48 [INFO]: Ayun entre en combat !
+				23-04-2023 19:16:51 [INFO]: Froggit a perdu 8 PV !
+				23-04-2023 19:16:51 [INFO]: Ayun a perdu 8 PV !
+				23-04-2023 19:16:53 [INFO]: Froggit a perdu 4 PV !
+				23-04-2023 19:16:53 [INFO]: Ayun a perdu 7 PV !
+				23-04-2023 19:16:55 [INFO]: Ayun a raté son attaque !
+				23-04-2023 19:16:55 [INFO]: Ayun a perdu 4 PV !
+				23-04-2023 19:16:56 [INFO]: Ayun a perdu 4 PV !
+				23-04-2023 19:16:56 [INFO]: Froggit a perdu 4 PV !
+				23-04-2023 19:16:58 [INFO]: Ayun a perdu 4 PV !
+				23-04-2023 19:16:58 [INFO]: Froggit a perdu 4 PV !
+				23-04-2023 19:16:59 [INFO]: Froggit a perdu 3 PV !
+				23-04-2023 19:16:59 [INFO]: Ayun a perdu 7 PV !
+				23-04-2023 19:17:01 [INFO]: Ayun a perdu 3 PV !
+				23-04-2023 19:17:01 [INFO]: Ayun a raté son attaque !
+				23-04-2023 19:17:06 [INFO]: Ayun a perdu 3 PV !
+				23-04-2023 19:17:06 [INFO]: Froggit a perdu 4 PV !
+				23-04-2023 19:17:10 [INFO]: Ayun a perdu 4 PV !
+				23-04-2023 19:17:10 [INFO]: Froggit a perdu 8 PV !
+				23-04-2023 19:17:11 [INFO]: Froggit a perdu 4 PV !
+				23-04-2023 19:17:11 [INFO]: Ayun a perdu 4 PV !
+				23-04-2023 19:17:13 [INFO]: Froggit a perdu 4 PV !
+				23-04-2023 19:17:13 [INFO]: Ayun a perdu 4 PV !
+				23-04-2023 19:17:15 [INFO]: Froggit a perdu 8 PV !
+				23-04-2023 19:17:15 [INFO]: Froggit a raté son attaque !
+				23-04-2023 19:17:17 [INFO]: Froggit a perdu 8 PV !
+				23-04-2023 19:17:17 [INFO]: Ayun a perdu 7 PV !
+				23-04-2023 19:17:19 [INFO]: Froggit a raté son attaque !
+				23-04-2023 19:17:19 [INFO]: Froggit a perdu 4 PV !
+				23-04-2023 19:17:21 [INFO]: Ayun a perdu 4 PV !
+				23-04-2023 19:17:21 [INFO]: Froggit a perdu 8 PV !
+				23-04-2023 19:17:21 [INFO]: Froggit est mort !
+					23-04-2023 19:17:21 [INFO]: Ayun a gagné 85 xp et 20 gold
+
+		23-04-2023 19:17:28 [COMMAND]: Ayun#9191 a utilisé la commande !inv !
+		23-04-2023 19:18:46 [COMMAND]: Ayun#9191 a utilisé la commande !magasin !
+		23-04-2023 20:39:51 [COMMAND]: Ayun#9191 a utilisé la commande !combat !
+			23-04-2023 20:39:51 [INFO]: Ayun entre en combat !
+				23-04-2023 20:39:54 [INFO]: Aaron a raté son attaque !
+				23-04-2023 20:39:54 [INFO]: Aaron a perdu 7 PV !
+				23-04-2023 20:39:56 [INFO]: Aaron a perdu 8 PV !
+				23-04-2023 20:39:56 [INFO]: Ayun a perdu 5 PV !
+				23-04-2023 20:39:58 [INFO]: Ayun a raté son attaque !
+				23-04-2023 20:39:58 [INFO]: Ayun a perdu 2 PV !
+				23-04-2023 20:40:01 [INFO]: Ayun a perdu 3 PV !
+				23-04-2023 20:40:01 [INFO]: Aaron a perdu 6 PV !
+				23-04-2023 20:40:02 [INFO]: Ayun a perdu 2 PV !
+				23-04-2023 20:40:02 [INFO]: Aaron a perdu 4 PV !
+				23-04-2023 20:40:04 [INFO]: Aaron a perdu 4 PV !
+				23-04-2023 20:40:04 [INFO]: Ayun a perdu 5 PV !
+				23-04-2023 20:40:06 [INFO]: Aaron a perdu 3 PV !
+				23-04-2023 20:40:06 [INFO]: Ayun a perdu 3 PV !
+				23-04-2023 20:40:09 [INFO]: Aaron a raté son attaque !
+				23-04-2023 20:40:09 [INFO]: Aaron a perdu 7 PV !
+				23-04-2023 20:40:10 [INFO]: Ayun a perdu 3 PV !
+				23-04-2023 20:40:10 [INFO]: Aaron a perdu 4 PV !
+				23-04-2023 20:40:13 [INFO]: Aaron a perdu 4 PV !
+				23-04-2023 20:40:13 [INFO]: Ayun a perdu 5 PV !
+				23-04-2023 20:40:15 [INFO]: Aaron a perdu 3 PV !
+				23-04-2023 20:40:15 [INFO]: Ayun a perdu 2 PV !
+				23-04-2023 20:40:15 [INFO]: Aaron est mort !
+					23-04-2023 20:40:15 [INFO]: Ayun a gagné 75 xp et 10 gold
+
+		25-04-2023 16:46:32 [COMMAND]: Ayun#9191 a utilisé la commande !combat !
+			25-04-2023 16:46:32 [INFO]: Ayun entre en combat !
+				25-04-2023 16:46:34 [INFO]: Ayun a perdu 2 PV !
+				25-04-2023 16:46:34 [INFO]: Commandogue a perdu 9 PV !
+				25-04-2023 16:46:35 [INFO]: Commandogue a perdu 4 PV !
+				25-04-2023 16:46:35 [INFO]: Ayun a perdu 4 PV !
+				25-04-2023 16:46:37 [INFO]: Commandogue a perdu 4 PV !
+				25-04-2023 16:46:37 [INFO]: Ayun a perdu 5 PV !
+				25-04-2023 16:46:39 [INFO]: Commandogue a perdu 4 PV !
+				25-04-2023 16:46:39 [INFO]: Ayun a perdu 5 PV !
+				25-04-2023 16:46:40 [INFO]: Commandogue a perdu 4 PV !
+				25-04-2023 16:46:40 [INFO]: Ayun a perdu 3 PV !
+				25-04-2023 16:46:41 [INFO]: Ayun a perdu 2 PV !
+				25-04-2023 16:46:41 [INFO]: Commandogue a perdu 10 PV !
+				25-04-2023 16:46:43 [INFO]: Ayun a perdu 3 PV !
+				25-04-2023 16:46:43 [INFO]: Commandogue a perdu 4 PV !
+				25-04-2023 16:46:44 [INFO]: Ayun a perdu 3 PV !
+				25-04-2023 16:46:44 [INFO]: Commandogue a perdu 5 PV !
+				25-04-2023 16:46:45 [INFO]: Ayun a perdu 2 PV !
+				25-04-2023 16:46:45 [INFO]: Commandogue a perdu 4 PV !
+				25-04-2023 16:46:46 [INFO]: Ayun a perdu 2 PV !
+				25-04-2023 16:46:46 [INFO]: Commandogue a perdu 4 PV !
+				25-04-2023 16:46:46 [INFO]: Commandogue est mort !
+					25-04-2023 16:46:47 [INFO]: Ayun a gagné 50 xp et 20 gold
+
+		25-04-2023 16:46:52 [COMMAND]: Ayun#9191 a utilisé la commande !combat !
+			25-04-2023 16:46:52 [INFO]: Ayun entre en combat !
+				25-04-2023 16:46:55 [INFO]: Froggit a perdu 4 PV !
+				25-04-2023 16:46:55 [INFO]: Ayun a perdu 4 PV !
+				25-04-2023 16:46:56 [INFO]: Ayun a perdu 4 PV !
+				25-04-2023 16:46:56 [INFO]: Froggit a perdu 4 PV !
+				25-04-2023 16:46:58 [INFO]: Ayun a perdu 4 PV !
+				25-04-2023 16:46:58 [INFO]: Froggit a perdu 4 PV !
+				25-04-2023 16:46:59 [INFO]: Ayun a perdu 6 PV !
+				25-04-2023 16:46:59 [INFO]: Froggit a perdu 8 PV !
+				25-04-2023 16:47:01 [INFO]: Froggit a perdu 8 PV !
+				25-04-2023 16:47:01 [INFO]: Ayun a perdu 7 PV !
+				25-04-2023 16:47:02 [INFO]: Ayun a perdu 4 PV !
+				25-04-2023 16:47:02 [INFO]: Froggit a perdu 8 PV !
+				25-04-2023 16:47:04 [INFO]: Froggit a perdu 4 PV !
+				25-04-2023 16:47:04 [INFO]: Froggit a raté son attaque !
+				25-04-2023 16:47:06 [INFO]: Froggit a raté son attaque !
+				25-04-2023 16:47:07 [INFO]: Ayun a raté son attaque !
+				25-04-2023 16:47:09 [INFO]: Ayun a perdu 3 PV !
+				25-04-2023 16:47:09 [INFO]: Froggit a perdu 4 PV !
+				25-04-2023 16:47:10 [INFO]: Froggit a perdu 7 PV !
+				25-04-2023 16:47:10 [INFO]: Ayun a perdu 6 PV !
+				25-04-2023 16:47:12 [INFO]: Ayun a perdu 6 PV !
+				25-04-2023 16:47:12 [INFO]: Froggit a perdu 4 PV !
+				25-04-2023 16:47:13 [INFO]: Ayun a perdu 4 PV !
+				25-04-2023 16:47:13 [INFO]: Froggit a perdu 4 PV !
+				25-04-2023 16:47:15 [INFO]: Ayun a raté son attaque !
+				25-04-2023 16:47:15 [INFO]: Ayun a perdu 4 PV !
+				25-04-2023 16:47:16 [INFO]: Ayun a perdu 4 PV !
+				25-04-2023 16:47:16 [INFO]: Froggit a perdu 7 PV !
+				25-04-2023 16:47:16 [INFO]: Froggit est mort !
+					25-04-2023 16:47:17 [INFO]: Ayun a gagné 85 xp et 20 gold
+
+		25-04-2023 16:52:01 [COMMAND]: Ayun#9191 a utilisé la commande !combat !
+			25-04-2023 16:52:01 [INFO]: Ayun entre en combat !
+				25-04-2023 16:52:03 [INFO]: Ayun a perdu 8 PV !
+				25-04-2023 16:52:04 [INFO]: Ayun a raté son attaque !
+				25-04-2023 16:52:05 [INFO]: Ayun a perdu 4 PV !
+				25-04-2023 16:52:05 [INFO]: Froggit a perdu 4 PV !
+				25-04-2023 16:52:07 [INFO]: Ayun a perdu 4 PV !
+				25-04-2023 16:52:07 [INFO]: Ayun a raté son attaque !
+				25-04-2023 16:52:09 [INFO]: Ayun a perdu 8 PV !
+				25-04-2023 16:52:09 [INFO]: Froggit a perdu 4 PV !
+				25-04-2023 16:52:13 [INFO]: Froggit a perdu 4 PV !
+				25-04-2023 16:52:13 [INFO]: Ayun a perdu 8 PV !
+				25-04-2023 16:52:15 [INFO]: Ayun a perdu 6 PV !
+				25-04-2023 16:52:15 [INFO]: Froggit a perdu 4 PV !
+				25-04-2023 16:52:16 [INFO]: Froggit a perdu 4 PV !
+				25-04-2023 16:52:16 [INFO]: Ayun a perdu 6 PV !
+				25-04-2023 16:52:18 [INFO]: Ayun a raté son attaque !
+				25-04-2023 16:52:18 [INFO]: Ayun a perdu 4 PV !
+				25-04-2023 16:52:19 [INFO]: Ayun a perdu 4 PV !
+				25-04-2023 16:52:19 [INFO]: Ayun a raté son attaque !
+				25-04-2023 16:52:21 [INFO]: Froggit a raté son attaque !
+				25-04-2023 16:52:21 [INFO]: Froggit a perdu 4 PV !
+				25-04-2023 16:52:23 [INFO]: Ayun a perdu 4 PV !
+				25-04-2023 16:52:23 [INFO]: Froggit a perdu 4 PV !
+				25-04-2023 16:52:25 [INFO]: Ayun a perdu 4 PV !
+				25-04-2023 16:52:25 [INFO]: Ayun a raté son attaque !
+				25-04-2023 16:52:27 [INFO]: Ayun a perdu 4 PV !
+				25-04-2023 16:52:27 [INFO]: Froggit a perdu 7 PV !
+				25-04-2023 16:52:29 [INFO]: Froggit a perdu 4 PV !
+				25-04-2023 16:52:29 [INFO]: Ayun a perdu 7 PV !
+				25-04-2023 16:52:30 [INFO]: Ayun a perdu 4 PV !
+				25-04-2023 16:52:30 [INFO]: Froggit a perdu 3 PV !
+				25-04-2023 16:52:32 [INFO]: Froggit a perdu 8 PV !
+				25-04-2023 16:52:32 [INFO]: Ayun a perdu 7 PV !
+				25-04-2023 16:52:34 [INFO]: Froggit a raté son attaque !
+				25-04-2023 16:52:34 [INFO]: Ayun a raté son attaque !
+				25-04-2023 16:52:36 [INFO]: Ayun a perdu 7 PV !
+				25-04-2023 16:52:36 [INFO]: Froggit a perdu 4 PV !
+				25-04-2023 16:52:37 [INFO]: Ayun a perdu 7 PV !
+				25-04-2023 16:52:37 [INFO]: Froggit a perdu 3 PV !
+				25-04-2023 16:52:39 [INFO]: Ayun a raté son attaque !
+				25-04-2023 16:52:39 [INFO]: Ayun a perdu 7 PV !
+				25-04-2023 16:52:39 [INFO]: Ayun est mort !
+
+		25-04-2023 16:55:29 [COMMAND]: Ayun#9191 a utilisé la commande !combat !
+			25-04-2023 16:55:29 [INFO]: Ayun entre en combat !
+				25-04-2023 16:55:32 [INFO]: Ayun a perdu 4 PV !
+				25-04-2023 16:55:32 [INFO]: Froggit a perdu 3 PV !
+				25-04-2023 16:55:33 [INFO]: Froggit a perdu 4 PV !
+				25-04-2023 16:55:33 [INFO]: Froggit a raté son attaque !
+				25-04-2023 16:55:34 [INFO]: Ayun a perdu 3 PV !
+				25-04-2023 16:55:34 [INFO]: Froggit a perdu 3 PV !
+				25-04-2023 16:55:36 [INFO]: Froggit a perdu 4 PV !
+				25-04-2023 16:55:36 [INFO]: Ayun a perdu 7 PV !
+				25-04-2023 16:55:37 [INFO]: Ayun a perdu 3 PV !
+				25-04-2023 16:55:37 [INFO]: Froggit a perdu 4 PV !
+				25-04-2023 16:55:39 [INFO]: Froggit a perdu 7 PV !
+				25-04-2023 16:55:39 [INFO]: Ayun a perdu 7 PV !
+				25-04-2023 16:55:40 [INFO]: Froggit a perdu 8 PV !
+				25-04-2023 16:55:40 [INFO]: Ayun a perdu 4 PV !
+				25-04-2023 16:55:41 [INFO]: Froggit a perdu 8 PV !
+				25-04-2023 16:55:42 [INFO]: Froggit a raté son attaque !
+				25-04-2023 16:55:43 [INFO]: Ayun a perdu 4 PV !
+				25-04-2023 16:55:44 [INFO]: Ayun a raté son attaque !
+				25-04-2023 16:55:45 [INFO]: Froggit a perdu 8 PV !
+				25-04-2023 16:55:45 [INFO]: Ayun a perdu 4 PV !
+				25-04-2023 16:55:46 [INFO]: Ayun a perdu 7 PV !
+				25-04-2023 16:55:46 [INFO]: Froggit a perdu 4 PV !
+				25-04-2023 16:55:48 [INFO]: Froggit a perdu 3 PV !
+				25-04-2023 16:55:48 [INFO]: Ayun a perdu 6 PV !
+				25-04-2023 16:55:49 [INFO]: Froggit a perdu 4 PV !
+				25-04-2023 16:55:49 [INFO]: Ayun a perdu 3 PV !
+				25-04-2023 16:55:50 [INFO]: Froggit a perdu 8 PV !
+				25-04-2023 16:55:50 [INFO]: Froggit est mort !
+					25-04-2023 16:55:51 [INFO]: Ayun a gagné 85 xp et 20 gold
+
+		25-04-2023 17:02:35 [COMMAND]: Ayun#9191 a utilisé la commande !combat !
+			25-04-2023 17:02:35 [INFO]: Ayun entre en combat !
+				25-04-2023 17:02:37 [INFO]: Aaron a perdu 4 PV !
+				25-04-2023 17:02:37 [INFO]: Ayun a perdu 5 PV !
+				25-04-2023 17:02:40 [INFO]: Aaron a perdu 4 PV !
+				25-04-2023 17:02:40 [INFO]: Ayun a perdu 3 PV !
+				25-04-2023 17:02:42 [INFO]: Aaron a perdu 4 PV !
+				25-04-2023 17:02:42 [INFO]: Ayun a perdu 5 PV !
+				25-04-2023 17:02:43 [INFO]: Aaron a perdu 3 PV !
+				25-04-2023 17:02:43 [INFO]: Ayun a perdu 2 PV !
+				25-04-2023 17:02:44 [INFO]: Aaron a raté son attaque !
+				25-04-2023 17:02:44 [INFO]: Aaron a perdu 7 PV !
+				25-04-2023 17:02:46 [INFO]: Ayun a perdu 5 PV !
+				25-04-2023 17:02:46 [INFO]: Aaron a perdu 4 PV !
+				25-04-2023 17:02:48 [INFO]: Ayun a perdu 2 PV !
+				25-04-2023 17:02:48 [INFO]: Aaron a perdu 4 PV !
+				25-04-2023 17:02:49 [INFO]: Ayun a perdu 2 PV !
+				25-04-2023 17:02:50 [INFO]: Ayun a raté son attaque !
+				25-04-2023 17:02:51 [INFO]: Aaron a perdu 3 PV !
+				25-04-2023 17:02:51 [INFO]: Ayun a perdu 2 PV !
+				25-04-2023 17:02:53 [INFO]: Ayun a perdu 5 PV !
+				25-04-2023 17:02:53 [INFO]: Aaron a perdu 4 PV !
+				25-04-2023 17:02:55 [INFO]: Ayun a perdu 2 PV !
+				25-04-2023 17:02:55 [INFO]: Aaron a perdu 7 PV !
+				25-04-2023 17:02:57 [INFO]: Aaron a raté son attaque !
+				25-04-2023 17:02:57 [INFO]: Aaron a perdu 4 PV !
+				25-04-2023 17:02:58 [INFO]: Ayun a perdu 2 PV !
+				25-04-2023 17:02:58 [INFO]: Aaron a perdu 7 PV !
+				25-04-2023 17:02:58 [INFO]: Aaron est mort !
+					25-04-2023 17:02:59 [INFO]: Ayun a gagné 75 xp et 10 gold
+
+		01-05-2023 20:16:50 [ERROR]: 🧶Error_sans🧸#0143 a entré la commande !! qui est invalide !
+		07-05-2023 18:56:12 [ERROR]: ★ Tomthinkimcool ✩#1520 a entré la commande !! qui est invalide !
+		17-05-2023 15:19:18 [ERROR]: ଘ(੭ ᐛ )ժc_բɾѵ☆ﾟ.*･｡ﾟ#1520 a entré la commande ! qui est invalide !
+		17-05-2023 15:20:44 [COMMAND]: ‧̍̊˙· 𓆝.°𝕊𝕨𝕖𝕖𝕥✩‧₊˚#0119 a utilisé la commande !combat !
+			17-05-2023 15:20:44 [INFO]: Sweet entre en combat !
+				17-05-2023 15:20:51 [INFO]: Sweet a perdu 2 PV !
+				17-05-2023 15:20:51 [INFO]: Aaron a perdu 7 PV !
+				17-05-2023 15:20:58 [INFO]: Sweet a perdu 5 PV !
+				17-05-2023 15:20:58 [INFO]: Aaron a perdu 4 PV !
+				17-05-2023 15:21:05 [INFO]: Sweet a perdu 2 PV !
+				17-05-2023 15:21:05 [INFO]: Aaron a perdu 7 PV !
+				17-05-2023 15:21:08 [INFO]: Sweet a raté son attaque !
+				17-05-2023 15:21:08 [INFO]: Sweet a perdu 5 PV !
+				17-05-2023 15:21:13 [INFO]: Sweet a perdu 3 PV !
+				17-05-2023 15:21:13 [INFO]: Aaron a perdu 4 PV !
+				17-05-2023 15:21:16 [INFO]: Sweet a perdu 2 PV !
+				17-05-2023 15:21:16 [INFO]: Aaron a perdu 4 PV !
+				17-05-2023 15:21:23 [INFO]: Sweet a perdu 2 PV !
+				17-05-2023 15:21:24 [INFO]: Sweet a raté son attaque !
+				17-05-2023 15:21:26 [INFO]: Sweet a raté son attaque !
+				17-05-2023 15:21:26 [INFO]: Sweet a perdu 5 PV !
+				17-05-2023 15:21:27 [INFO]: Aaron a perdu 4 PV !
+				17-05-2023 15:21:27 [INFO]: Sweet a perdu 2 PV !
+				17-05-2023 15:21:29 [INFO]: Aaron a perdu 7 PV !
+				17-05-2023 15:21:29 [INFO]: Sweet a perdu 2 PV !
+				17-05-2023 15:21:35 [INFO]: Sweet a perdu 2 PV !
+				17-05-2023 15:21:35 [INFO]: Aaron a perdu 4 PV !
+				17-05-2023 15:21:38 [INFO]: Sweet a perdu 2 PV !
+				17-05-2023 15:21:38 [INFO]: Aaron a perdu 7 PV !
+				17-05-2023 15:21:40 [INFO]: Sweet a perdu 2 PV !
+				17-05-2023 15:21:40 [INFO]: Sweet a raté son attaque !
+				17-05-2023 15:21:42 [INFO]: Sweet a raté son attaque !
+				17-05-2023 15:21:42 [INFO]: Sweet a perdu 2 PV !
+				17-05-2023 15:22:00 [INFO]: Aaron a raté son attaque !
+				17-05-2023 15:22:00 [INFO]: Aaron a perdu 4 PV !
+				17-05-2023 15:22:00 [INFO]: Aaron est mort !
+					17-05-2023 15:22:01 [INFO]: Sweet a gagné 75 xp et 10 gold
+
+		17-05-2023 15:22:28 [COMMAND]: ‧̍̊˙· 𓆝.°𝕊𝕨𝕖𝕖𝕥✩‧₊˚#0119 a utilisé la commande !magasin !
+			17-05-2023 15:22:35 [INFO]: Sweet a acheté Potion de soin moyenne au prix de 75
+			17-05-2023 15:22:38 [INFO]: Sweet a acheté Potion de soin moyenne au prix de 75
+		17-05-2023 15:22:43 [COMMAND]: ‧̍̊˙· 𓆝.°𝕊𝕨𝕖𝕖𝕥✩‧₊˚#0119 a utilisé la commande !profil !
+		17-05-2023 15:23:15 [COMMAND]: ‧̍̊˙· 𓆝.°𝕊𝕨𝕖𝕖𝕥✩‧₊˚#0119 a utilisé la commande !combat !
+			17-05-2023 15:23:15 [INFO]: Sweet entre en combat !
+				17-05-2023 15:23:44 [INFO]: Sweet a perdu 5 PV !
+				17-05-2023 15:23:44 [INFO]: Commandogue a perdu 4 PV !
+				17-05-2023 15:23:47 [INFO]: Commandogue a perdu 4 PV !
+				17-05-2023 15:23:47 [INFO]: Sweet a perdu 2 PV !
+				17-05-2023 15:23:49 [INFO]: Commandogue a perdu 4 PV !
+				17-05-2023 15:23:49 [INFO]: Sweet a perdu 3 PV !
+				17-05-2023 15:23:51 [INFO]: Sweet a perdu 2 PV !
+				17-05-2023 15:23:51 [INFO]: Commandogue a perdu 9 PV !
+				17-05-2023 15:23:55 [INFO]: Sweet a perdu 5 PV !
+				17-05-2023 15:23:55 [INFO]: Commandogue a perdu 9 PV !
+				17-05-2023 15:23:56 [INFO]: Sweet a perdu 4 PV !
+				17-05-2023 15:23:56 [INFO]: Commandogue a perdu 4 PV !
+				17-05-2023 15:23:58 [INFO]: Sweet a raté son attaque !
+				17-05-2023 15:23:59 [INFO]: Commandogue a raté son attaque !
+				17-05-2023 15:24:02 [INFO]: Commandogue a perdu 4 PV !
+				17-05-2023 15:24:02 [INFO]: Sweet a perdu 2 PV !
+				17-05-2023 15:24:04 [INFO]: Sweet a perdu 5 PV !
+				17-05-2023 15:24:04 [INFO]: Commandogue a perdu 4 PV !
+				17-05-2023 15:24:06 [INFO]: Sweet a perdu 2 PV !
+				17-05-2023 15:24:06 [INFO]: Commandogue a perdu 4 PV !
+				17-05-2023 15:24:08 [INFO]: Sweet a perdu 2 PV !
+				17-05-2023 15:24:08 [INFO]: Commandogue a perdu 4 PV !
+				17-05-2023 15:24:08 [INFO]: Commandogue est mort !
+					17-05-2023 15:24:08 [INFO]: Sweet a gagné 50 xp et 20 gold
+
+
+
+	25-05-2023 00:37:22 [BOT]: Undertale Bot est lancé !
+
+
+	25-05-2023 01:06:06 [BOT]: Undertale Bot est lancé !
+		27-05-2023 20:43:21 [COMMAND]: Ulysse-srfc24#6799 a utilisé la commande !start !
+			27-05-2023 20:43:21 [SUCCESS]: Le profil de Ulysse-srfc24#6799 a bien été créé !
+
+		27-05-2023 20:44:06 [COMMAND]: Ulysse-srfc24#6799 a utilisé la commande !tuto !
+			27-05-2023 20:44:07 [SUCCESS]: jojo a obtenu 1 Tarte de Toriel
+
+		27-05-2023 20:44:25 [COMMAND]: Ulysse-srfc24#6799 a utilisé la commande !profil !
+		27-05-2023 20:44:45 [COMMAND]: Ulysse-srfc24#6799 a utilisé la commande !inv !
+		27-05-2023 20:46:34 [ERROR]: Ulysse-srfc24#6799 a entré la commande !farm qui est invalide !
+
+
+
+	16-06-2023 08:53:42 [BOT]: Undertale Bot est lancé !
+
+
+	16-06-2023 09:12:53 [BOT]: Undertale Bot est lancé !
+		16-06-2023 09:25:40 [ERROR]: Ayun#9191 a entré la commande !test qui est invalide !
+		26-06-2023 21:26:08 [COMMAND]: sollore#0 a utilisé la commande !start !
+			26-06-2023 21:26:08 [SUCCESS]: Le profil de sollore#0 a bien été créé !
+
+		26-06-2023 21:27:24 [COMMAND]: sollore#0 a utilisé la commande !tuto !
+			26-06-2023 21:27:24 [SUCCESS]: Grigri_rouge_gorge a obtenu 1 Tarte de Toriel
+
+		26-06-2023 21:28:46 [COMMAND]: ayungaming#0 a utilisé la commande !combat !
+			26-06-2023 21:28:46 [INFO]: Ayun entre en combat !
+				26-06-2023 21:28:49 [INFO]: Commandogue a raté son attaque !
+				26-06-2023 21:28:49 [INFO]: Commandogue a perdu 4 PV !
+				26-06-2023 21:28:51 [INFO]: Commandogue a perdu 9 PV !
+				26-06-2023 21:28:51 [INFO]: Ayun a perdu 2 PV !
+				26-06-2023 21:28:53 [INFO]: Ayun a perdu 3 PV !
+				26-06-2023 21:28:53 [INFO]: Ayun a raté son attaque !
+				26-06-2023 21:28:54 [INFO]: Commandogue a perdu 4 PV !
+				26-06-2023 21:28:54 [INFO]: Ayun a perdu 2 PV !
+				26-06-2023 21:28:56 [INFO]: Ayun a perdu 4 PV !
+				26-06-2023 21:28:56 [INFO]: Commandogue a perdu 9 PV !
+				26-06-2023 21:28:58 [INFO]: Commandogue a perdu 10 PV !
+				26-06-2023 21:28:58 [INFO]: Ayun a perdu 2 PV !
+				26-06-2023 21:28:59 [INFO]: Commandogue a perdu 4 PV !
+				26-06-2023 21:28:59 [INFO]: Ayun a perdu 2 PV !
+				26-06-2023 21:29:01 [INFO]: Commandogue a perdu 9 PV !
+				26-06-2023 21:29:01 [INFO]: Ayun a perdu 2 PV !
+				26-06-2023 21:29:02 [INFO]: Ayun a perdu 2 PV !
+				26-06-2023 21:29:03 [INFO]: Ayun a raté son attaque !
+				26-06-2023 21:29:05 [INFO]: Commandogue a raté son attaque !
+				26-06-2023 21:29:05 [INFO]: Commandogue a perdu 5 PV !
+				26-06-2023 21:29:05 [INFO]: Commandogue est mort !
+					26-06-2023 21:29:05 [INFO]: Ayun a gagné 50 xp et 20 gold
+
+		26-06-2023 21:31:07 [COMMAND]: sollore#0 a utilisé la commande !combat !
+		26-06-2023 21:33:08 [COMMAND]: sollore#0 a utilisé la commande !combat !
+			26-06-2023 21:33:08 [INFO]: Grigri_rouge_gorge entre en combat !
+				26-06-2023 21:33:12 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				26-06-2023 21:33:13 [INFO]: Froggit a raté son attaque !
+				26-06-2023 21:33:16 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				26-06-2023 21:33:16 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				26-06-2023 21:33:18 [INFO]: Froggit a perdu 8 PV !
+				26-06-2023 21:33:18 [INFO]: Grigri_rouge_gorge a perdu 7 PV !
+				26-06-2023 21:33:20 [INFO]: Grigri_rouge_gorge a perdu 6 PV !
+				26-06-2023 21:33:20 [INFO]: Froggit a perdu 4 PV !
+				26-06-2023 21:33:22 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				26-06-2023 21:33:23 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				26-06-2023 21:33:25 [INFO]: Froggit a perdu 7 PV !
+				26-06-2023 21:33:25 [INFO]: Grigri_rouge_gorge a perdu 6 PV !
+				26-06-2023 21:34:11 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				26-06-2023 21:34:11 [INFO]: Froggit a perdu 3 PV !
+				26-06-2023 21:34:13 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				26-06-2023 21:34:13 [INFO]: Froggit a perdu 4 PV !
+				26-06-2023 21:34:15 [INFO]: Grigri_rouge_gorge a perdu 7 PV !
+				26-06-2023 21:34:15 [INFO]: Froggit a perdu 4 PV !
+				26-06-2023 21:34:17 [INFO]: Froggit a perdu 8 PV !
+				26-06-2023 21:34:17 [INFO]: Grigri_rouge_gorge a perdu 7 PV !
+				26-06-2023 21:34:19 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				26-06-2023 21:34:19 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				26-06-2023 21:34:21 [INFO]: Froggit a perdu 4 PV !
+				26-06-2023 21:34:21 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				26-06-2023 21:34:24 [INFO]: Froggit a perdu 4 PV !
+				26-06-2023 21:34:24 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				26-06-2023 21:34:25 [INFO]: Grigri_rouge_gorge a perdu 3 PV !
+				26-06-2023 21:34:25 [INFO]: Froggit a perdu 4 PV !
+				26-06-2023 21:34:27 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				26-06-2023 21:34:27 [INFO]: Froggit a perdu 4 PV !
+				26-06-2023 21:34:29 [INFO]: Froggit a raté son attaque !
+				26-06-2023 21:34:29 [INFO]: Froggit a perdu 3 PV !
+				26-06-2023 21:34:31 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				26-06-2023 21:34:31 [INFO]: Froggit a perdu 8 PV !
+				26-06-2023 21:34:31 [INFO]: Froggit est mort !
+					26-06-2023 21:34:31 [INFO]: Grigri_rouge_gorge a gagné 85 xp et 20 gold
+				26-06-2023 21:34:34 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				26-06-2023 21:34:34 [INFO]: Froggit a perdu 4 PV !
+				26-06-2023 21:34:34 [INFO]: Froggit est mort !
+					26-06-2023 21:34:34 [INFO]: Grigri_rouge_gorge a gagné 85 xp et 20 gold
+
+		26-06-2023 21:34:49 [COMMAND]: sollore#0 a utilisé la commande !combat !
+			26-06-2023 21:34:49 [INFO]: Grigri_rouge_gorge entre en combat !
+				26-06-2023 21:34:54 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				26-06-2023 21:34:54 [INFO]: Grigri_rouge_gorge a perdu 3 PV !
+				26-06-2023 21:34:56 [INFO]: Froggit a raté son attaque !
+				26-06-2023 21:34:56 [INFO]: Froggit a perdu 4 PV !
+				26-06-2023 21:34:57 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				26-06-2023 21:34:57 [INFO]: Froggit a perdu 4 PV !
+				26-06-2023 21:34:59 [INFO]: Grigri_rouge_gorge a perdu 7 PV !
+				26-06-2023 21:34:59 [INFO]: Froggit a perdu 3 PV !
+				26-06-2023 21:35:01 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				26-06-2023 21:35:01 [INFO]: Froggit a perdu 4 PV !
+				26-06-2023 21:35:03 [INFO]: Grigri_rouge_gorge a perdu 3 PV !
+				26-06-2023 21:35:03 [INFO]: Froggit a perdu 8 PV !
+				26-06-2023 21:35:05 [INFO]: Froggit a perdu 8 PV !
+				26-06-2023 21:35:05 [INFO]: Grigri_rouge_gorge a perdu 7 PV !
+				26-06-2023 21:36:16 [INFO]: Grigri_rouge_gorge a perdu 7 PV !
+				26-06-2023 21:36:16 [INFO]: Froggit a perdu 8 PV !
+				26-06-2023 21:36:18 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				26-06-2023 21:36:19 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				26-06-2023 21:36:21 [INFO]: Froggit a perdu 8 PV !
+				26-06-2023 21:36:21 [INFO]: Froggit a raté son attaque !
+				26-06-2023 21:36:23 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				26-06-2023 21:36:23 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				26-06-2023 21:36:25 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				26-06-2023 21:36:25 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				26-06-2023 21:36:27 [INFO]: Froggit a raté son attaque !
+				26-06-2023 21:36:27 [INFO]: Froggit a perdu 4 PV !
+				26-06-2023 21:36:41 [INFO]: Froggit a perdu 8 PV !
+				26-06-2023 21:36:41 [INFO]: Grigri_rouge_gorge a perdu 3 PV !
+				26-06-2023 21:36:43 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				26-06-2023 21:36:43 [INFO]: Froggit a perdu 8 PV !
+				26-06-2023 21:36:43 [INFO]: Froggit est mort !
+					26-06-2023 21:36:43 [INFO]: Grigri_rouge_gorge a gagné 85 xp et 20 gold
+
+		26-06-2023 21:36:58 [COMMAND]: sollore#0 a utilisé la commande !combat !
+			26-06-2023 21:36:58 [INFO]: Grigri_rouge_gorge entre en combat !
+
+		26-06-2023 21:37:06 [COMMAND]: ayungaming#0 a utilisé la commande !combat !
+			26-06-2023 21:37:06 [INFO]: Ayun entre en combat !
+				26-06-2023 21:37:16 [INFO]: Ayun n'a pas réussi à prendre la fuite !
+				26-06-2023 21:37:16 [INFO]: Ayun a perdu 0 PV !
+				26-06-2023 21:37:19 [INFO]: Ayun a pris la fuite !
+
+		26-06-2023 21:37:24 [COMMAND]: ayungaming#0 a utilisé la commande !profil !
+				26-06-2023 21:37:42 [INFO]: Froggit a perdu 3 PV !
+				26-06-2023 21:37:42 [INFO]: Grigri_rouge_gorge a perdu 3 PV !
+				26-06-2023 21:37:44 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				26-06-2023 21:37:44 [INFO]: Froggit a perdu 8 PV !
+
+		26-06-2023 21:37:46 [COMMAND]: ayungaming#0 a utilisé la commande !combat !
+			26-06-2023 21:37:46 [INFO]: Ayun entre en combat !
+				26-06-2023 21:37:46 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				26-06-2023 21:37:46 [INFO]: Froggit a perdu 8 PV !
+				26-06-2023 21:37:47 [INFO]: Grigri_rouge_gorge a perdu 3 PV !
+				26-06-2023 21:37:47 [INFO]: Froggit a perdu 4 PV !
+				26-06-2023 21:37:49 [INFO]: Froggit a perdu 4 PV !
+				26-06-2023 21:37:49 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				26-06-2023 21:37:51 [INFO]: Ayun a pris la fuite !
+				26-06-2023 21:37:51 [INFO]: Grigri_rouge_gorge a perdu 7 PV !
+				26-06-2023 21:37:51 [INFO]: Froggit a perdu 8 PV !
+				26-06-2023 21:37:53 [INFO]: Grigri_rouge_gorge a perdu 7 PV !
+				26-06-2023 21:37:53 [INFO]: Grigri_rouge_gorge a raté son attaque !
+
+		26-06-2023 21:37:54 [COMMAND]: ayungaming#0 a utilisé la commande !combat !
+			26-06-2023 21:37:54 [INFO]: Ayun entre en combat !
+				26-06-2023 21:37:55 [INFO]: Grigri_rouge_gorge a perdu 3 PV !
+				26-06-2023 21:37:55 [INFO]: Froggit a perdu 4 PV !
+				26-06-2023 21:37:56 [INFO]: Ayun n'a pas réussi à prendre la fuite !
+				26-06-2023 21:37:56 [INFO]: Ayun a perdu 3 PV !
+				26-06-2023 21:37:57 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				26-06-2023 21:37:57 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				26-06-2023 21:37:58 [INFO]: Ayun a pris la fuite !
+				26-06-2023 21:37:59 [INFO]: Grigri_rouge_gorge a perdu 3 PV !
+				26-06-2023 21:37:59 [INFO]: Froggit a perdu 3 PV !
+				26-06-2023 21:38:00 [INFO]: Grigri_rouge_gorge a perdu 6 PV !
+				26-06-2023 21:38:01 [INFO]: Grigri_rouge_gorge a raté son attaque !
+
+		26-06-2023 21:38:03 [COMMAND]: ayungaming#0 a utilisé la commande !combat !
+			26-06-2023 21:38:03 [INFO]: Ayun entre en combat !
+				26-06-2023 21:38:03 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				26-06-2023 21:38:03 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				26-06-2023 21:38:05 [INFO]: Grigri_rouge_gorge a perdu 7 PV !
+				26-06-2023 21:38:05 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				26-06-2023 21:38:05 [INFO]: Ayun a pris la fuite !
+				26-06-2023 21:38:06 [INFO]: Froggit a perdu 8 PV !
+				26-06-2023 21:38:06 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				26-06-2023 21:38:08 [INFO]: Froggit a perdu 4 PV !
+				26-06-2023 21:38:08 [INFO]: Grigri_rouge_gorge a perdu 3 PV !
+
+		26-06-2023 21:38:09 [COMMAND]: ayungaming#0 a utilisé la commande !combat !
+			26-06-2023 21:38:09 [INFO]: Ayun entre en combat !
+				26-06-2023 21:38:10 [INFO]: Froggit a perdu 4 PV !
+				26-06-2023 21:38:11 [INFO]: Froggit a raté son attaque !
+				26-06-2023 21:38:11 [INFO]: Ayun a pris la fuite !
+				26-06-2023 21:38:13 [INFO]: Froggit a raté son attaque !
+				26-06-2023 21:38:13 [INFO]: Grigri_rouge_gorge a raté son attaque !
+
+		26-06-2023 21:38:14 [COMMAND]: ayungaming#0 a utilisé la commande !combat !
+			26-06-2023 21:38:14 [INFO]: Ayun entre en combat !
+				26-06-2023 21:38:15 [INFO]: Grigri_rouge_gorge a perdu 6 PV !
+				26-06-2023 21:38:15 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				26-06-2023 21:38:17 [INFO]: Froggit a raté son attaque !
+				26-06-2023 21:38:17 [INFO]: Froggit a perdu 8 PV !
+				26-06-2023 21:38:17 [INFO]: Froggit est mort !
+				26-06-2023 21:38:17 [INFO]: Ayun a pris la fuite !
+					26-06-2023 21:38:18 [INFO]: Grigri_rouge_gorge a gagné 85 xp et 20 gold
+
+		26-06-2023 21:38:21 [COMMAND]: ayungaming#0 a utilisé la commande !combat !
+			26-06-2023 21:38:21 [INFO]: Ayun entre en combat !
+				26-06-2023 21:38:23 [INFO]: Ayun a pris la fuite !
+
+		26-06-2023 21:38:26 [COMMAND]: ayungaming#0 a utilisé la commande !combat !
+			26-06-2023 21:38:26 [INFO]: Ayun entre en combat !
+				26-06-2023 21:38:28 [INFO]: Ayun a pris la fuite !
+
+		26-06-2023 21:38:31 [COMMAND]: ayungaming#0 a utilisé la commande !combat !
+			26-06-2023 21:38:31 [INFO]: Ayun entre en combat !
+				26-06-2023 21:38:33 [INFO]: Ayun n'a pas réussi à prendre la fuite !
+				26-06-2023 21:38:33 [INFO]: Ayun a perdu 2 PV !
+				26-06-2023 21:38:36 [INFO]: Ayun n'a pas réussi à prendre la fuite !
+				26-06-2023 21:38:36 [INFO]: Ayun a perdu 0 PV !
+				26-06-2023 21:38:38 [INFO]: Ayun a pris la fuite !
+
+		26-06-2023 21:38:41 [COMMAND]: ayungaming#0 a utilisé la commande !combat !
+			26-06-2023 21:38:41 [INFO]: Ayun entre en combat !
+				26-06-2023 21:38:43 [INFO]: Ayun n'a pas réussi à prendre la fuite !
+				26-06-2023 21:38:43 [INFO]: Ayun a perdu 2 PV !
+				26-06-2023 21:38:46 [INFO]: Ayun n'a pas réussi à prendre la fuite !
+				26-06-2023 21:38:46 [INFO]: Ayun a perdu 3 PV !
+				26-06-2023 21:38:47 [INFO]: Ayun a pris la fuite !
+
+		26-06-2023 21:39:17 [ERROR]: sollore#0 a entré la commande !stat qui est invalide !
+		26-06-2023 21:39:36 [COMMAND]: sollore#0 a utilisé la commande !profil !
+		26-06-2023 21:46:06 [ERROR]: ayungaming#0 a entré la commande !admin-fight qui est invalide !
+		26-06-2023 21:46:20 [ERROR]: ayungaming#0 a entré la commande !admin-fight qui est invalide !
+
+
+	26-06-2023 21:48:33 [BOT]: Undertale Bot est lancé !
+		26-06-2023 21:49:02 [COMMAND]: ayungaming#0 a utilisé la commande !admin-fight
+		26-06-2023 21:49:41 [COMMAND]: ayungaming#0 a utilisé la commande !profil !
+		26-06-2023 21:49:49 [ERROR]: ayungaming#0 a entré la commande !progil qui est invalide !
+		26-06-2023 21:50:00 [COMMAND]: ayungaming#0 a utilisé la commande !profil !
+		26-06-2023 21:50:06 [COMMAND]: ayungaming#0 a utilisé la commande !admin-fight
+
+
+	26-06-2023 21:51:30 [BOT]: Undertale Bot est lancé !
+
+
+	26-06-2023 21:51:46 [BOT]: Undertale Bot est lancé !
+
+
+	26-06-2023 21:51:57 [BOT]: Undertale Bot est lancé !
+		26-06-2023 21:52:08 [COMMAND]: ayungaming#0 a utilisé la commande !admin-fight
+			26-06-2023 21:52:08 [INFO]: Ayun entre en combat !
+
+
+	26-06-2023 21:52:28 [BOT]: Undertale Bot est lancé !
+
+
+	26-06-2023 21:52:47 [BOT]: Undertale Bot est lancé !
+		26-06-2023 21:52:52 [COMMAND]: ayungaming#0 a utilisé la commande !admin-fight
+			26-06-2023 21:52:52 [INFO]: Ayun entre en combat !
+
+		27-06-2023 10:35:21 [COMMAND]: ayungaming#0 a utilisé la commande !profil !                                                         
+
+
+	27-06-2023 23:49:59 [BOT]: Undertale Bot est lancé !
+
+
+	28-06-2023 17:49:23 [BOT]: Undertale Bot est lancé !
+		28-06-2023 18:32:14 [COMMAND]: ayungaming#0 a utilisé la commande !combat !
+			28-06-2023 18:32:14 [INFO]: Ayun entre en combat !
+				28-06-2023 18:32:16 [INFO]: Aaron a perdu 18 PV !
+				28-06-2023 18:32:16 [INFO]: Ayun a perdu 5 PV !
+				28-06-2023 18:32:18 [INFO]: Ayun a perdu 3 PV !
+				28-06-2023 18:32:18 [INFO]: Aaron a perdu 37 PV !
+				28-06-2023 18:32:18 [INFO]: Aaron est mort !
+					28-06-2023 18:32:18 [INFO]: Ayun a gagné 75 xp et 10 gold
+
+		28-06-2023 18:32:24 [COMMAND]: ayungaming#0 a utilisé la commande !profil !
+		28-06-2023 18:33:10 [COMMAND]: ayungaming#0 a utilisé la commande !profil !
+		28-06-2023 18:33:26 [COMMAND]: ayungaming#0 a utilisé la commande !inv !
+		28-06-2023 18:36:40 [COMMAND]: ayungaming#0 a utilisé la commande !inv !
+
+
+	28-06-2023 18:40:20 [BOT]: Undertale Bot est lancé !
+		28-06-2023 18:40:26 [COMMAND]: ayungaming#0 a utilisé la commande !inv !
+
+
+	28-06-2023 20:17:19 [BOT]: Undertale Bot est lancé !
+		29-06-2023 11:57:43 [COMMAND]: ayungaming#0 a utilisé la commande !combat !
+			29-06-2023 11:57:43 [INFO]: Ayun entre en combat !
+				29-06-2023 11:57:46 [INFO]: Papyrus a perdu 3 PV !
+				29-06-2023 11:57:46 [INFO]: Papyrus a raté son attaque !
+				29-06-2023 11:57:48 [INFO]: Papyrus a perdu 6 PV !
+				29-06-2023 11:57:48 [INFO]: Ayun a perdu 9 PV !
+				29-06-2023 11:57:50 [INFO]: Papyrus a raté son attaque !
+				29-06-2023 11:57:50 [INFO]: Papyrus a perdu 3 PV !
+				29-06-2023 11:57:52 [INFO]: Ayun a raté son attaque !
+				29-06-2023 11:57:52 [INFO]: Ayun a perdu 5 PV !
+				29-06-2023 11:57:54 [INFO]: Ayun a perdu 9 PV !
+				29-06-2023 11:57:54 [INFO]: Papyrus a perdu 3 PV !
+				29-06-2023 11:57:56 [INFO]: Papyrus a perdu 3 PV !
+				29-06-2023 11:57:56 [INFO]: Ayun a perdu 5 PV !
+				29-06-2023 11:57:58 [INFO]: Ayun a raté son attaque !
+				29-06-2023 11:57:58 [INFO]: Ayun a perdu 5 PV !
+				29-06-2023 11:58:00 [INFO]: Ayun a perdu 9 PV !
+				29-06-2023 11:58:00 [INFO]: Papyrus a perdu 3 PV !
+				29-06-2023 11:58:02 [INFO]: Papyrus a perdu 3 PV !
+				29-06-2023 11:58:02 [INFO]: Ayun a perdu 10 PV !
+				29-06-2023 11:58:04 [INFO]: Papyrus a perdu 3 PV !
+				29-06-2023 11:58:04 [INFO]: Ayun a perdu 4 PV !
+				29-06-2023 11:58:09 [INFO]: Petite potion de soin a été utilisé par Ayun il a gagné 10 et a maintenant 54
+				29-06-2023 11:58:12 [INFO]: Papyrus a perdu 3 PV !
+				29-06-2023 11:58:13 [INFO]: Papyrus a raté son attaque !
+				29-06-2023 11:58:16 [INFO]: Ayun a perdu 8 PV !
+				29-06-2023 11:58:16 [INFO]: Papyrus a perdu 6 PV !
+				29-06-2023 11:58:18 [INFO]: Ayun a perdu 5 PV !
+				29-06-2023 11:58:18 [INFO]: Ayun a raté son attaque !
+				29-06-2023 11:58:20 [INFO]: Ayun a perdu 4 PV !
+				29-06-2023 11:58:20 [INFO]: Papyrus a perdu 3 PV !
+				29-06-2023 11:58:21 [INFO]: Ayun a perdu 5 PV !
+				29-06-2023 11:58:22 [INFO]: Ayun a raté son attaque !
+				29-06-2023 11:58:27 [INFO]: Ayun a perdu 9 PV !
+				29-06-2023 11:58:27 [INFO]: Papyrus a perdu 3 PV !
+				29-06-2023 11:58:29 [INFO]: Papyrus a raté son attaque !
+				29-06-2023 11:58:29 [INFO]: Papyrus a perdu 3 PV !
+				29-06-2023 11:58:33 [INFO]: Petite potion de soin a été utilisé par Ayun il a gagné 10 et a maintenant 33
+				29-06-2023 11:58:36 [INFO]: Papyrus a raté son attaque !
+				29-06-2023 11:58:37 [INFO]: Ayun a raté son attaque !
+				29-06-2023 11:58:38 [INFO]: Papyrus a perdu 7 PV !
+				29-06-2023 11:58:38 [INFO]: Ayun a perdu 9 PV !
+				29-06-2023 11:58:40 [INFO]: Papyrus a perdu 6 PV !
+				29-06-2023 11:58:41 [INFO]: Papyrus a raté son attaque !
+				29-06-2023 11:58:43 [INFO]: Ayun a raté son attaque !
+				29-06-2023 11:58:44 [INFO]: Papyrus a raté son attaque !
+				29-06-2023 11:58:46 [INFO]: Ayun a perdu 9 PV !
+				29-06-2023 11:58:46 [INFO]: Papyrus a perdu 6 PV !
+				29-06-2023 11:58:48 [INFO]: Papyrus a perdu 3 PV !
+				29-06-2023 11:58:48 [INFO]: Ayun a perdu 5 PV !
+				29-06-2023 11:58:52 [INFO]: Ayun a perdu 5 PV !
+				29-06-2023 11:58:52 [INFO]: Papyrus a perdu 3 PV !
+				29-06-2023 11:58:56 [INFO]: Petite potion de soin a été utilisé par Ayun il a gagné 10 et a maintenant 15
+				29-06-2023 11:58:58 [INFO]: Papyrus a perdu 6 PV !
+				29-06-2023 11:58:59 [INFO]: Papyrus a raté son attaque !
+				29-06-2023 11:59:01 [INFO]: Papyrus a perdu 3 PV !
+				29-06-2023 11:59:02 [INFO]: Papyrus a raté son attaque !
+				29-06-2023 11:59:04 [INFO]: Ayun a perdu 5 PV !
+				29-06-2023 11:59:04 [INFO]: Papyrus a perdu 7 PV !
+				29-06-2023 11:59:04 [INFO]: Papyrus est mort !
+					29-06-2023 11:59:04 [INFO]: Ayun a gagné 120 xp et 35 gold
+
+		01-07-2023 19:24:07 [COMMAND]: .degsweet.#0 a utilisé la commande !combat !
+			01-07-2023 19:24:07 [INFO]: Sweet entre en combat !
+				01-07-2023 19:24:12 [INFO]: Aaron a perdu 4 PV !
+				01-07-2023 19:24:12 [INFO]: Sweet a perdu 4 PV !
+				01-07-2023 19:24:14 [INFO]: Sweet a perdu 5 PV !
+				01-07-2023 19:24:14 [INFO]: Aaron a perdu 4 PV !
+				01-07-2023 19:24:17 [INFO]: Sweet a perdu 4 PV !
+				01-07-2023 19:24:17 [INFO]: Aaron a perdu 3 PV !
+				01-07-2023 19:24:19 [INFO]: Sweet a raté son attaque !
+				01-07-2023 19:24:20 [INFO]: Aaron a raté son attaque !
+				01-07-2023 19:24:22 [INFO]: Sweet a perdu 5 PV !
+				01-07-2023 19:24:22 [INFO]: Aaron a perdu 4 PV !
+				01-07-2023 19:24:26 [INFO]: Aaron a perdu 4 PV !
+				01-07-2023 19:24:26 [INFO]: Sweet a perdu 2 PV !
+				01-07-2023 19:24:30 [INFO]: Sweet a perdu 2 PV !
+				01-07-2023 19:24:30 [INFO]: Sweet a raté son attaque !
+				01-07-2023 19:24:33 [INFO]: Aaron a perdu 6 PV !
+				01-07-2023 19:24:33 [INFO]: Sweet a perdu 2 PV !
+				01-07-2023 19:24:36 [INFO]: Aaron a perdu 4 PV !
+				01-07-2023 19:24:36 [INFO]: Sweet a perdu 2 PV !
+				01-07-2023 19:24:39 [INFO]: Aaron a raté son attaque !
+				01-07-2023 19:24:39 [INFO]: Aaron a perdu 8 PV !
+				01-07-2023 19:24:41 [INFO]: Aaron a perdu 6 PV !
+				01-07-2023 19:24:41 [INFO]: Aaron a raté son attaque !
+				01-07-2023 19:24:44 [INFO]: Aaron a perdu 4 PV !
+				01-07-2023 19:24:44 [INFO]: Sweet a perdu 2 PV !
+				01-07-2023 19:24:47 [INFO]: Sweet a raté son attaque !
+				01-07-2023 19:24:47 [INFO]: Sweet a perdu 3 PV !
+				01-07-2023 19:24:50 [INFO]: Aaron a perdu 4 PV !
+				01-07-2023 19:24:50 [INFO]: Aaron est mort !
+					01-07-2023 19:24:50 [INFO]: Sweet a gagné 75 xp et 10 gold
+
+		01-07-2023 19:24:57 [COMMAND]: .degsweet.#0 a utilisé la commande !profil !
+		01-07-2023 19:26:01 [ERROR]: .degsweet.#0 a entré la commande !shop qui est invalide !
+		01-07-2023 19:26:08 [ERROR]: .degsweet.#0 a entré la commande ! qui est invalide !
+		01-07-2023 19:26:18 [ERROR]: .degsweet.#0 a entré la commande !boutique qui est invalide !
+		01-07-2023 19:28:06 [COMMAND]: .degsweet.#0 a utilisé la commande !magasin !
+			01-07-2023 19:28:12 [INFO]: Sweet a acheté Potion de soin moyenne au prix de 75
+			01-07-2023 19:28:14 [INFO]: Sweet a acheté Potion de soin moyenne au prix de 75
+			01-07-2023 19:28:17 [INFO]: Sweet a acheté Potion de soin moyenne au prix de 75
+			01-07-2023 19:28:19 [INFO]: Sweet a acheté Potion de soin moyenne au prix de 75
+			01-07-2023 19:28:23 [INFO]: Sweet a acheté Potion de soin moyenne au prix de 75
+			01-07-2023 19:28:31 [INFO]: Sweet a acheté Petite potion de soin au prix de 25
+			01-07-2023 19:28:33 [INFO]: Sweet a acheté Petite potion de soin au prix de 25
+			01-07-2023 19:28:35 [INFO]: Sweet a acheté Petite potion de soin au prix de 25
+		01-07-2023 19:28:43 [COMMAND]: .degsweet.#0 a utilisé la commande !combat !
+			01-07-2023 19:28:43 [INFO]: Sweet entre en combat !
+				01-07-2023 19:28:46 [INFO]: Sweet a raté son attaque !
+				01-07-2023 19:28:47 [INFO]: Calotte glacée a raté son attaque !
+				01-07-2023 19:28:49 [INFO]: Sweet a perdu 4 PV !
+				01-07-2023 19:28:49 [INFO]: Calotte glacée a perdu 8 PV !
+				01-07-2023 19:28:51 [INFO]: Sweet a perdu 4 PV !
+				01-07-2023 19:28:51 [INFO]: Calotte glacée a perdu 3 PV !
+				01-07-2023 19:28:53 [INFO]: Sweet a perdu 9 PV !
+				01-07-2023 19:28:53 [INFO]: Calotte glacée a perdu 7 PV !
+				01-07-2023 19:28:56 [INFO]: Sweet a perdu 5 PV !
+				01-07-2023 19:28:56 [INFO]: Calotte glacée a perdu 6 PV !
+				01-07-2023 19:29:10 [INFO]: Calotte glacée a raté son attaque !
+				01-07-2023 19:29:10 [INFO]: Calotte glacée a perdu 8 PV !
+				01-07-2023 19:29:13 [INFO]: Calotte glacée a perdu 3 PV !
+				01-07-2023 19:29:13 [INFO]: Sweet a perdu 5 PV !
+				01-07-2023 19:29:15 [INFO]: Sweet a raté son attaque !
+				01-07-2023 19:29:15 [INFO]: Sweet a perdu 4 PV !
+				01-07-2023 19:29:17 [INFO]: Calotte glacée a perdu 3 PV !
+				01-07-2023 19:29:17 [INFO]: Sweet a perdu 5 PV !
+				01-07-2023 19:29:19 [INFO]: Calotte glacée a perdu 3 PV !
+				01-07-2023 19:29:19 [INFO]: Sweet a perdu 8 PV !
+				01-07-2023 19:29:21 [INFO]: Calotte glacée a perdu 3 PV !
+				01-07-2023 19:29:21 [INFO]: Sweet a perdu 4 PV !
+				01-07-2023 19:29:25 [INFO]: Calotte glacée a perdu 6 PV !
+				01-07-2023 19:29:25 [INFO]: Calotte glacée a raté son attaque !
+				01-07-2023 19:29:27 [INFO]: Sweet a perdu 4 PV !
+				01-07-2023 19:29:27 [INFO]: Calotte glacée a perdu 6 PV !
+				01-07-2023 19:29:29 [INFO]: Sweet a perdu 8 PV !
+				01-07-2023 19:29:29 [INFO]: Calotte glacée a perdu 3 PV !
+				01-07-2023 19:29:31 [INFO]: Calotte glacée a perdu 3 PV !
+				01-07-2023 19:29:31 [INFO]: Sweet a perdu 4 PV !
+				01-07-2023 19:29:33 [INFO]: Calotte glacée a perdu 3 PV !
+				01-07-2023 19:29:33 [INFO]: Sweet a perdu 4 PV !
+				01-07-2023 19:29:35 [INFO]: Sweet a perdu 5 PV !
+				01-07-2023 19:29:35 [INFO]: Sweet a raté son attaque !
+				01-07-2023 19:29:43 [INFO]: Potion de soin moyenne a été utilisé par Sweet il a gagné 25 et a maintenant 52
+				01-07-2023 19:29:46 [INFO]: Calotte glacée a perdu 6 PV !
+				01-07-2023 19:29:46 [INFO]: Sweet a perdu 9 PV !
+				01-07-2023 19:29:48 [INFO]: Sweet a raté son attaque !
+				01-07-2023 19:29:49 [INFO]: Calotte glacée a raté son attaque !
+				01-07-2023 19:29:51 [INFO]: Calotte glacée a perdu 3 PV !
+				01-07-2023 19:29:51 [INFO]: Sweet a perdu 4 PV !
+				01-07-2023 19:29:53 [INFO]: Calotte glacée a perdu 6 PV !
+				01-07-2023 19:29:53 [INFO]: Calotte glacée a raté son attaque !
+				01-07-2023 19:29:55 [INFO]: Calotte glacée a perdu 4 PV !
+				01-07-2023 19:29:55 [INFO]: Sweet a perdu 8 PV !
+				01-07-2023 19:29:57 [INFO]: Calotte glacée a perdu 3 PV !
+				01-07-2023 19:29:58 [INFO]: Calotte glacée a raté son attaque !
+				01-07-2023 19:30:00 [INFO]: Sweet a raté son attaque !
+				01-07-2023 19:30:00 [INFO]: Sweet a perdu 4 PV !
+				01-07-2023 19:30:04 [INFO]: Calotte glacée a perdu 4 PV !
+				01-07-2023 19:30:04 [INFO]: Sweet a perdu 7 PV !
+				01-07-2023 19:30:08 [INFO]: Sweet a raté son attaque !
+				01-07-2023 19:30:08 [INFO]: Sweet a perdu 8 PV !
+				01-07-2023 19:30:10 [INFO]: Calotte glacée a raté son attaque !
+				01-07-2023 19:30:10 [INFO]: Calotte glacée a perdu 3 PV !
+				01-07-2023 19:30:13 [INFO]: Calotte glacée a perdu 4 PV !
+				01-07-2023 19:30:13 [INFO]: Sweet a perdu 8 PV !
+				01-07-2023 19:30:17 [INFO]: Sweet a perdu 5 PV !
+				01-07-2023 19:30:17 [INFO]: Sweet est mort !
+				01-07-2023 19:30:30 [INFO]: Sweet n'a pas réussi à prendre la fuite !
+				01-07-2023 19:30:30 [INFO]: Sweet a perdu 4 PV !
+				01-07-2023 19:30:40 [INFO]: Calotte glacée a perdu 4 PV !
+				01-07-2023 19:30:40 [INFO]: Calotte glacée est mort !
+					01-07-2023 19:30:40 [INFO]: Sweet a gagné 95 xp et 35 gold
+
+		01-07-2023 19:31:57 [COMMAND]: .degsweet.#0 a utilisé la commande !profil !
+		01-07-2023 22:41:06 [ERROR]: ayungaming#0 a entré la commande !shop qui est invalide !
+		01-07-2023 22:41:11 [COMMAND]: ayungaming#0 a utilisé la commande !magasin !
+		01-07-2023 22:41:17 [COMMAND]: ayungaming#0 a utilisé la commande !profil !
+		01-07-2023 22:50:36 [COMMAND]: ayungaming#0 a utilisé la commande !profil !
+
+
+	01-07-2023 22:57:58 [BOT]: Undertale Bot est lancé !
+		01-07-2023 22:58:11 [COMMAND]: ayungaming#0 a utilisé la commande !combat !
+			01-07-2023 22:58:11 [INFO]: Ayun entre en combat !
+				01-07-2023 22:58:13 [INFO]: Calotte glacée a raté son attaque !
+				01-07-2023 22:58:13 [INFO]: Calotte glacée a perdu 6 PV !
+				01-07-2023 22:58:15 [INFO]: Calotte glacée a perdu 7 PV !
+				01-07-2023 22:58:15 [INFO]: Ayun a perdu 4 PV !
+				01-07-2023 22:58:17 [INFO]: Calotte glacée a perdu 7 PV !
+				01-07-2023 22:58:17 [INFO]: Ayun a perdu 4 PV !
+
+		01-07-2023 23:06:57 [COMMAND]: ayungaming#0 a utilisé la commande !combat !
+			01-07-2023 23:06:57 [INFO]: Ayun entre en combat !
+
+		01-07-2023 23:08:06 [ERROR]: ayungaming#0 a entré la commande !shop qui est invalide !
+		01-07-2023 23:08:09 [COMMAND]: ayungaming#0 a utilisé la commande !magasin !
+			01-07-2023 23:08:11 [INFO]: Ayun a acheté Potion de soin moyenne au prix de 75
+		01-07-2023 23:08:20 [COMMAND]: ayungaming#0 a utilisé la commande !magasin !
+			01-07-2023 23:08:23 [INFO]: Ayun a acheté Potion de soin moyenne au prix de 75
+		01-07-2023 23:08:36 [COMMAND]: ayungaming#0 a utilisé la commande !inv !
+		01-07-2023 23:08:43 [COMMAND]: ayungaming#0 a utilisé la commande !profil !
+		01-07-2023 23:08:45 [COMMAND]: ayungaming#0 a utilisé la commande !combat !
+			01-07-2023 23:08:45 [INFO]: Ayun entre en combat !
+				01-07-2023 23:08:47 [INFO]: Ayun a perdu 3 PV !
+				01-07-2023 23:08:47 [INFO]: Aaron a perdu 4 PV !
+				01-07-2023 23:08:49 [INFO]: Aaron a perdu 6 PV !
+				01-07-2023 23:08:49 [INFO]: Ayun a perdu 3 PV !
+				01-07-2023 23:08:51 [INFO]: Ayun a perdu 2 PV !
+				01-07-2023 23:08:51 [INFO]: Ayun a raté son attaque !
+				01-07-2023 23:08:53 [INFO]: Aaron a perdu 6 PV !
+				01-07-2023 23:08:53 [INFO]: Ayun a perdu 4 PV !
+				01-07-2023 23:08:55 [INFO]: Aaron a perdu 3 PV !
+				01-07-2023 23:08:55 [INFO]: Ayun a perdu 4 PV !
+				01-07-2023 23:08:56 [INFO]: Ayun a perdu 3 PV !
+				01-07-2023 23:08:56 [INFO]: Aaron a perdu 7 PV !
+				01-07-2023 23:08:58 [INFO]: Ayun a perdu 3 PV !
+				01-07-2023 23:08:58 [INFO]: Ayun a raté son attaque !
+				01-07-2023 23:09:00 [INFO]: Ayun a perdu 2 PV !
+				01-07-2023 23:09:00 [INFO]: Aaron a perdu 4 PV !
+				01-07-2023 23:09:01 [INFO]: Ayun a perdu 5 PV !
+				01-07-2023 23:09:01 [INFO]: Aaron a perdu 4 PV !
+				01-07-2023 23:09:03 [INFO]: Ayun a perdu 2 PV !
+				01-07-2023 23:09:04 [INFO]: Ayun a raté son attaque !
+				01-07-2023 23:09:06 [INFO]: Aaron a perdu 4 PV !
+				01-07-2023 23:09:06 [INFO]: Ayun a perdu 3 PV !
+				01-07-2023 23:09:08 [INFO]: Aaron a raté son attaque !
+				01-07-2023 23:09:08 [INFO]: Aaron a perdu 7 PV !
+				01-07-2023 23:09:10 [INFO]: Aaron a perdu 4 PV !
+				01-07-2023 23:09:10 [INFO]: Aaron a raté son attaque !
+				01-07-2023 23:09:12 [INFO]: Ayun a raté son attaque !
+				01-07-2023 23:09:12 [INFO]: Ayun a perdu 2 PV !
+				01-07-2023 23:09:14 [INFO]: Aaron a perdu 4 PV !
+				01-07-2023 23:09:14 [INFO]: Aaron est mort !
+					01-07-2023 23:09:15 [INFO]: Ayun a gagné 75 xp et 10 gold
+
+
+	01-07-2023 23:20:03 [BOT]: Undertale Bot est lancé !
+		01-07-2023 23:20:09 [COMMAND]: ayungaming#0 a utilisé la commande !combat !
+			01-07-2023 23:20:09 [INFO]: Ayun entre en combat !
+
+		01-07-2023 23:52:26 [COMMAND]: sollore#0 a utilisé la commande !combat !
+			01-07-2023 23:52:26 [INFO]: Grigri_rouge_gorge entre en combat !
+				01-07-2023 23:52:30 [INFO]: Aaron a raté son attaque !
+				01-07-2023 23:52:30 [INFO]: Aaron a perdu 4 PV !
+				01-07-2023 23:52:33 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				01-07-2023 23:52:33 [INFO]: Aaron a perdu 4 PV !
+				01-07-2023 23:52:35 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				01-07-2023 23:52:35 [INFO]: Aaron a perdu 7 PV !
+				01-07-2023 23:52:38 [INFO]: Aaron a perdu 8 PV !
+				01-07-2023 23:52:38 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				01-07-2023 23:52:41 [INFO]: Aaron a raté son attaque !
+				01-07-2023 23:52:41 [INFO]: Aaron a perdu 4 PV !
+				01-07-2023 23:52:43 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				01-07-2023 23:52:43 [INFO]: Aaron a perdu 4 PV !
+				01-07-2023 23:52:46 [INFO]: Aaron a perdu 4 PV !
+				01-07-2023 23:52:46 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				01-07-2023 23:52:48 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				01-07-2023 23:52:48 [INFO]: Aaron a perdu 4 PV !
+				01-07-2023 23:52:51 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				01-07-2023 23:52:51 [INFO]: Aaron a perdu 4 PV !
+				01-07-2023 23:52:53 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				01-07-2023 23:52:53 [INFO]: Aaron a perdu 7 PV !
+				01-07-2023 23:52:53 [INFO]: Aaron est mort !
+					01-07-2023 23:52:53 [INFO]: Grigri_rouge_gorge a gagné 75 xp et 10 gold
+
+		01-07-2023 23:53:07 [ERROR]: sollore#0 a entré la commande !liste qui est invalide !
+		01-07-2023 23:53:39 [ERROR]: sollore#0 a entré la commande !inventaire qui est invalide !
+		01-07-2023 23:53:50 [ERROR]: sollore#0 a entré la commande !commandd qui est invalide !
+		01-07-2023 23:53:56 [ERROR]: sollore#0 a entré la commande !commande qui est invalide !
+		01-07-2023 23:54:37 [ERROR]: sollore#0 a entré la commande !objet qui est invalide !
+		01-07-2023 23:54:42 [COMMAND]: sollore#0 a utilisé la commande !magasin !
+			01-07-2023 23:54:58 [INFO]: Grigri_rouge_gorge a acheté Petite potion de soin au prix de 25
+			01-07-2023 23:55:01 [INFO]: Grigri_rouge_gorge a acheté Petite potion de soin au prix de 25
+		01-07-2023 23:55:10 [COMMAND]: sollore#0 a utilisé la commande !combat !
+			01-07-2023 23:55:10 [INFO]: Grigri_rouge_gorge entre en combat !
+				01-07-2023 23:55:13 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				01-07-2023 23:55:13 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				01-07-2023 23:55:15 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				01-07-2023 23:55:15 [INFO]: Calotte glacée a perdu 4 PV !
+				01-07-2023 23:55:19 [INFO]: Calotte glacée a perdu 3 PV !
+				01-07-2023 23:55:19 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				01-07-2023 23:55:21 [INFO]: Calotte glacée a perdu 7 PV !
+				01-07-2023 23:55:21 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				01-07-2023 23:55:24 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				01-07-2023 23:55:25 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				01-07-2023 23:55:27 [INFO]: Calotte glacée a perdu 3 PV !
+				01-07-2023 23:55:27 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				01-07-2023 23:55:29 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				01-07-2023 23:55:29 [INFO]: Calotte glacée a perdu 7 PV !
+				01-07-2023 23:55:31 [INFO]: Calotte glacée a perdu 3 PV !
+				01-07-2023 23:55:31 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				01-07-2023 23:55:34 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				01-07-2023 23:55:34 [INFO]: Calotte glacée a perdu 8 PV !
+				01-07-2023 23:55:36 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				01-07-2023 23:55:36 [INFO]: Calotte glacée a perdu 7 PV !
+				01-07-2023 23:55:38 [INFO]: Calotte glacée a perdu 3 PV !
+				01-07-2023 23:55:38 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				01-07-2023 23:55:40 [INFO]: Calotte glacée a perdu 8 PV !
+				01-07-2023 23:55:40 [INFO]: Calotte glacée a raté son attaque !
+				01-07-2023 23:55:43 [INFO]: Calotte glacée a perdu 3 PV !
+				01-07-2023 23:55:43 [INFO]: Grigri_rouge_gorge a perdu 7 PV !
+				01-07-2023 23:55:46 [INFO]: Calotte glacée a raté son attaque !
+				01-07-2023 23:55:46 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				01-07-2023 23:55:48 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				01-07-2023 23:55:48 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				01-07-2023 23:55:50 [INFO]: Calotte glacée a perdu 3 PV !
+				01-07-2023 23:55:50 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				01-07-2023 23:55:53 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				01-07-2023 23:55:53 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				01-07-2023 23:56:03 [INFO]: Petite potion de soin a été utilisé par Grigri_rouge_gorge il a gagné 10 et a maintenant 27
+				01-07-2023 23:56:06 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				01-07-2023 23:56:06 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				01-07-2023 23:56:08 [INFO]: Calotte glacée a perdu 4 PV !
+				01-07-2023 23:56:08 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				01-07-2023 23:56:12 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				01-07-2023 23:56:12 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				01-07-2023 23:56:15 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				01-07-2023 23:56:15 [INFO]: Calotte glacée a perdu 4 PV !
+				01-07-2023 23:56:57 [INFO]: Calotte glacée a perdu 3 PV !
+				01-07-2023 23:56:57 [INFO]: Grigri_rouge_gorge a perdu 9 PV !
+				01-07-2023 23:56:57 [INFO]: Grigri_rouge_gorge est mort !
+
+		01-07-2023 23:57:07 [COMMAND]: sollore#0 a utilisé la commande !combat !
+			01-07-2023 23:57:07 [INFO]: Grigri_rouge_gorge entre en combat !
+				01-07-2023 23:57:29 [INFO]: Commandogue a perdu 9 PV !
+				01-07-2023 23:57:29 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				01-07-2023 23:57:32 [INFO]: Commandogue a perdu 9 PV !
+				01-07-2023 23:57:32 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				01-07-2023 23:57:34 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				01-07-2023 23:57:34 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				01-07-2023 23:57:36 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				01-07-2023 23:57:36 [INFO]: Commandogue a perdu 8 PV !
+				01-07-2023 23:57:40 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				01-07-2023 23:57:40 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				01-07-2023 23:57:42 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				01-07-2023 23:57:42 [INFO]: Commandogue a raté son attaque !
+				01-07-2023 23:57:44 [INFO]: Commandogue a perdu 9 PV !
+				01-07-2023 23:57:45 [INFO]: Commandogue a raté son attaque !
+				01-07-2023 23:57:47 [INFO]: Commandogue a perdu 4 PV !
+				01-07-2023 23:57:47 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				01-07-2023 23:57:49 [INFO]: Grigri_rouge_gorge a perdu 3 PV !
+				01-07-2023 23:57:49 [INFO]: Commandogue a perdu 9 PV !
+				01-07-2023 23:57:51 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				01-07-2023 23:57:51 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				01-07-2023 23:57:53 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				01-07-2023 23:57:53 [INFO]: Commandogue a perdu 4 PV !
+				01-07-2023 23:57:53 [INFO]: Commandogue est mort !
+					01-07-2023 23:57:54 [INFO]: Grigri_rouge_gorge a gagné 50 xp et 20 gold
+
+		01-07-2023 23:59:05 [COMMAND]: sollore#0 a utilisé la commande !combat !
+			01-07-2023 23:59:05 [INFO]: Grigri_rouge_gorge entre en combat !
+				01-07-2023 23:59:08 [INFO]: Grigri_rouge_gorge a perdu 3 PV !
+				01-07-2023 23:59:08 [INFO]: Aaron a perdu 6 PV !
+				01-07-2023 23:59:23 [INFO]: Aaron a raté son attaque !
+				01-07-2023 23:59:23 [INFO]: Aaron a perdu 6 PV !
+				01-07-2023 23:59:25 [INFO]: Aaron a perdu 7 PV !
+				01-07-2023 23:59:25 [INFO]: Grigri_rouge_gorge a perdu 3 PV !
+				01-07-2023 23:59:27 [INFO]: Grigri_rouge_gorge a perdu 3 PV !
+				01-07-2023 23:59:27 [INFO]: Aaron a perdu 8 PV !
+				01-07-2023 23:59:29 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				01-07-2023 23:59:29 [INFO]: Aaron a perdu 7 PV !
+				01-07-2023 23:59:31 [INFO]: Aaron a perdu 4 PV !
+				01-07-2023 23:59:31 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				01-07-2023 23:59:33 [INFO]: Aaron a perdu 6 PV !
+				01-07-2023 23:59:33 [INFO]: Aaron a raté son attaque !
+				01-07-2023 23:59:37 [INFO]: Aaron a perdu 4 PV !
+				01-07-2023 23:59:37 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				01-07-2023 23:59:39 [INFO]: Aaron a raté son attaque !
+				01-07-2023 23:59:39 [INFO]: Aaron a perdu 7 PV !
+				01-07-2023 23:59:39 [INFO]: Aaron est mort !
+					01-07-2023 23:59:40 [INFO]: Grigri_rouge_gorge a gagné 75 xp et 10 gold
+
+		02-07-2023 00:00:19 [COMMAND]: sollore#0 a utilisé la commande !combat !
+			02-07-2023 00:00:19 [INFO]: Grigri_rouge_gorge entre en combat !
+				02-07-2023 00:00:25 [INFO]: Froggit a raté son attaque !
+				02-07-2023 00:00:25 [INFO]: Froggit a perdu 4 PV !
+				02-07-2023 00:00:27 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:00:27 [INFO]: Froggit a perdu 3 PV !
+				02-07-2023 00:00:29 [INFO]: Froggit a perdu 4 PV !
+				02-07-2023 00:00:29 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:00:31 [INFO]: Froggit a perdu 7 PV !
+				02-07-2023 00:00:31 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:00:33 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:00:33 [INFO]: Froggit a perdu 4 PV !
+				02-07-2023 00:00:35 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:00:35 [INFO]: Froggit a perdu 4 PV !
+				02-07-2023 00:00:37 [INFO]: Froggit a perdu 7 PV !
+				02-07-2023 00:00:37 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:00:40 [INFO]: Grigri_rouge_gorge a perdu 3 PV !
+				02-07-2023 00:00:40 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:00:45 [INFO]: Froggit a perdu 8 PV !
+				02-07-2023 00:00:45 [INFO]: Froggit a raté son attaque !
+				02-07-2023 00:00:47 [INFO]: Froggit a perdu 8 PV !
+				02-07-2023 00:00:47 [INFO]: Grigri_rouge_gorge a perdu 7 PV !
+				02-07-2023 00:00:49 [INFO]: Froggit a perdu 4 PV !
+				02-07-2023 00:00:49 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:00:51 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:00:51 [INFO]: Froggit a perdu 4 PV !
+				02-07-2023 00:00:54 [INFO]: Froggit a perdu 3 PV !
+				02-07-2023 00:00:54 [INFO]: Grigri_rouge_gorge a perdu 3 PV !
+				02-07-2023 00:00:58 [INFO]: Froggit a perdu 8 PV !
+				02-07-2023 00:00:58 [INFO]: Froggit est mort !
+					02-07-2023 00:00:58 [INFO]: Grigri_rouge_gorge a gagné 85 xp et 20 gold
+
+		02-07-2023 00:02:47 [ERROR]: sollore#0 a entré la commande !profile qui est invalide !
+		02-07-2023 00:03:35 [COMMAND]: sollore#0 a utilisé la commande !combat !
+			02-07-2023 00:03:35 [INFO]: Grigri_rouge_gorge entre en combat !
+				02-07-2023 00:03:37 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:03:37 [INFO]: Grigri_rouge_gorge a perdu 9 PV !
+				02-07-2023 00:03:53 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:03:53 [INFO]: Papyrus a perdu 5 PV !
+				02-07-2023 00:03:55 [INFO]: Papyrus a raté son attaque !
+				02-07-2023 00:03:55 [INFO]: Papyrus a perdu 6 PV !
+				02-07-2023 00:03:57 [INFO]: Papyrus a raté son attaque !
+				02-07-2023 00:03:57 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:03:59 [INFO]: Papyrus a raté son attaque !
+				02-07-2023 00:03:59 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:04:02 [INFO]: Papyrus a raté son attaque !
+				02-07-2023 00:04:02 [INFO]: Papyrus a perdu 6 PV !
+				02-07-2023 00:04:04 [INFO]: Grigri_rouge_gorge a perdu 9 PV !
+				02-07-2023 00:04:04 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:04:06 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:04:06 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:04:08 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:04:08 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:04:10 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:04:10 [INFO]: Papyrus a raté son attaque !
+				02-07-2023 00:04:12 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:04:12 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:04:14 [INFO]: Papyrus a perdu 7 PV !
+				02-07-2023 00:04:15 [INFO]: Papyrus a raté son attaque !
+				02-07-2023 00:04:17 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:04:17 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:05:07 [INFO]: Papyrus a raté son attaque !
+				02-07-2023 00:05:08 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:05:11 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:05:11 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:05:13 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:05:13 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:05:15 [INFO]: Papyrus a perdu 5 PV !
+				02-07-2023 00:05:15 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:05:17 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:05:17 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:05:19 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:05:19 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:05:21 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:05:21 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:05:24 [INFO]: Grigri_rouge_gorge a perdu 10 PV !
+				02-07-2023 00:05:24 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:05:26 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:05:26 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:05:29 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:05:29 [INFO]: Papyrus a perdu 7 PV !
+				02-07-2023 00:05:31 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:05:31 [INFO]: Papyrus a perdu 5 PV !
+				02-07-2023 00:05:33 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:05:33 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:05:33 [INFO]: Grigri_rouge_gorge est mort !
+
+		02-07-2023 00:09:21 [COMMAND]: sollore#0 a utilisé la commande !combat !
+			02-07-2023 00:09:21 [INFO]: Grigri_rouge_gorge entre en combat !
+				02-07-2023 00:09:41 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:09:41 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:09:44 [INFO]: Papyrus a perdu 5 PV !
+				02-07-2023 00:09:44 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:09:46 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:09:46 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:09:48 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:09:48 [INFO]: Papyrus a perdu 5 PV !
+				02-07-2023 00:09:50 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:09:50 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				02-07-2023 00:09:53 [INFO]: Papyrus a perdu 7 PV !
+				02-07-2023 00:09:53 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:09:54 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:09:54 [INFO]: Papyrus a perdu 5 PV !
+				02-07-2023 00:09:57 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:09:57 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:09:58 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:09:58 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:10:00 [INFO]: Papyrus a perdu 6 PV !
+				02-07-2023 00:10:00 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				02-07-2023 00:10:03 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:10:03 [INFO]: Papyrus a perdu 6 PV !
+				02-07-2023 00:10:05 [INFO]: Papyrus a raté son attaque !
+				02-07-2023 00:10:05 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:10:08 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:10:08 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:10:10 [INFO]: Papyrus a raté son attaque !
+				02-07-2023 00:10:10 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:10:13 [INFO]: Papyrus a raté son attaque !
+				02-07-2023 00:10:13 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:10:15 [INFO]: Grigri_rouge_gorge a perdu 10 PV !
+				02-07-2023 00:10:15 [INFO]: Papyrus a perdu 6 PV !
+				02-07-2023 00:10:17 [INFO]: Grigri_rouge_gorge a perdu 9 PV !
+				02-07-2023 00:10:17 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:10:23 [INFO]: Petite potion de soin a été utilisé par Grigri_rouge_gorge il a gagné 10 et a maintenant 26
+				02-07-2023 00:10:25 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:10:25 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:10:27 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:10:27 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:10:29 [INFO]: Papyrus a raté son attaque !
+				02-07-2023 00:10:29 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:10:31 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:10:31 [INFO]: Grigri_rouge_gorge a perdu 10 PV !
+				02-07-2023 00:10:34 [INFO]: Papyrus a raté son attaque !
+				02-07-2023 00:10:34 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:10:39 [INFO]: Papyrus a perdu 6 PV !
+				02-07-2023 00:10:39 [INFO]: Papyrus est mort !
+					02-07-2023 00:10:39 [INFO]: Grigri_rouge_gorge a gagné 120 xp et 35 gold
+
+		02-07-2023 00:13:33 [COMMAND]: sollore#0 a utilisé la commande !combat !
+			02-07-2023 00:13:33 [INFO]: Grigri_rouge_gorge entre en combat !
+				02-07-2023 00:13:38 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:13:38 [INFO]: Aaron a raté son attaque !
+				02-07-2023 00:13:40 [INFO]: Aaron a perdu 4 PV !
+				02-07-2023 00:13:40 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:13:43 [INFO]: Aaron a perdu 7 PV !
+				02-07-2023 00:13:43 [INFO]: Aaron a raté son attaque !
+				02-07-2023 00:13:45 [INFO]: Aaron a perdu 4 PV !
+				02-07-2023 00:13:45 [INFO]: Grigri_rouge_gorge a perdu 3 PV !
+				02-07-2023 00:13:47 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:13:47 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:13:49 [INFO]: Aaron a perdu 3 PV !
+				02-07-2023 00:13:49 [INFO]: Aaron a raté son attaque !
+				02-07-2023 00:13:51 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:13:51 [INFO]: Aaron a perdu 4 PV !
+				02-07-2023 00:13:53 [INFO]: Aaron a raté son attaque !
+				02-07-2023 00:13:53 [INFO]: Aaron a perdu 7 PV !
+				02-07-2023 00:13:56 [INFO]: Aaron a perdu 3 PV !
+				02-07-2023 00:13:56 [INFO]: Grigri_rouge_gorge a perdu 3 PV !
+				02-07-2023 00:13:58 [INFO]: Aaron a perdu 3 PV !
+				02-07-2023 00:13:58 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				02-07-2023 00:14:01 [INFO]: Aaron a perdu 6 PV !
+				02-07-2023 00:14:01 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:14:03 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:14:03 [INFO]: Aaron a perdu 3 PV !
+				02-07-2023 00:14:06 [INFO]: Aaron a raté son attaque !
+				02-07-2023 00:14:06 [INFO]: Aaron a perdu 4 PV !
+				02-07-2023 00:14:08 [INFO]: Aaron a perdu 4 PV !
+				02-07-2023 00:14:08 [INFO]: Aaron est mort !
+					02-07-2023 00:14:08 [INFO]: Grigri_rouge_gorge a gagné 75 xp et 10 gold
+
+		02-07-2023 00:17:17 [COMMAND]: sollore#0 a utilisé la commande !combat !
+			02-07-2023 00:17:17 [INFO]: Grigri_rouge_gorge entre en combat !
+				02-07-2023 00:17:20 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				02-07-2023 00:17:20 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:18:10 [INFO]: Papyrus a perdu 6 PV !
+				02-07-2023 00:18:10 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:18:51 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:18:51 [INFO]: Papyrus a raté son attaque !
+				02-07-2023 00:18:53 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:18:53 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:18:55 [INFO]: Papyrus a raté son attaque !
+				02-07-2023 00:18:55 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:18:57 [INFO]: Grigri_rouge_gorge a perdu 9 PV !
+				02-07-2023 00:18:57 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:18:59 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:18:59 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:19:01 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:19:01 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:19:03 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:19:03 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:19:05 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:19:05 [INFO]: Papyrus a raté son attaque !
+				02-07-2023 00:19:08 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:19:08 [INFO]: Papyrus a raté son attaque !
+				02-07-2023 00:19:10 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:19:10 [INFO]: Papyrus a raté son attaque !
+				02-07-2023 00:19:13 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:19:13 [INFO]: Papyrus a perdu 7 PV !
+				02-07-2023 00:19:15 [INFO]: Papyrus a raté son attaque !
+				02-07-2023 00:19:15 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:19:17 [INFO]: Grigri_rouge_gorge a perdu 10 PV !
+				02-07-2023 00:19:17 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:19:19 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:19:20 [INFO]: Papyrus a raté son attaque !
+				02-07-2023 00:19:23 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:19:23 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:19:26 [INFO]: Papyrus a perdu 6 PV !
+				02-07-2023 00:19:26 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:19:29 [INFO]: Papyrus a raté son attaque !
+				02-07-2023 00:19:29 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:19:31 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:19:31 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:19:33 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:19:33 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:19:35 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:19:35 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:19:37 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:19:37 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:19:41 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:19:41 [INFO]: Papyrus a raté son attaque !
+				02-07-2023 00:19:43 [INFO]: Grigri_rouge_gorge a perdu 10 PV !
+				02-07-2023 00:19:43 [INFO]: Papyrus a perdu 7 PV !
+				02-07-2023 00:19:45 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:19:45 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:19:45 [INFO]: Grigri_rouge_gorge est mort !
+
+		02-07-2023 00:20:32 [COMMAND]: sollore#0 a utilisé la commande !combat !
+			02-07-2023 00:20:32 [INFO]: Grigri_rouge_gorge entre en combat !
+				02-07-2023 00:20:36 [INFO]: Papyrus a perdu 6 PV !
+				02-07-2023 00:20:36 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:20:38 [INFO]: Grigri_rouge_gorge a perdu 9 PV !
+				02-07-2023 00:20:38 [INFO]: Papyrus a perdu 7 PV !
+				02-07-2023 00:20:40 [INFO]: Papyrus a perdu 6 PV !
+				02-07-2023 00:20:40 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:20:43 [INFO]: Papyrus a raté son attaque !
+				02-07-2023 00:20:44 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:20:46 [INFO]: Papyrus a perdu 5 PV !
+				02-07-2023 00:20:46 [INFO]: Grigri_rouge_gorge a perdu 9 PV !
+				02-07-2023 00:20:48 [INFO]: Grigri_rouge_gorge a perdu 9 PV !
+				02-07-2023 00:20:48 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:20:50 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:20:50 [INFO]: Grigri_rouge_gorge a perdu 9 PV !
+				02-07-2023 00:20:52 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				02-07-2023 00:20:52 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:20:55 [INFO]: Grigri_rouge_gorge a perdu 9 PV !
+				02-07-2023 00:20:55 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:21:06 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				02-07-2023 00:21:06 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:21:08 [INFO]: Papyrus a perdu 5 PV !
+				02-07-2023 00:21:08 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:21:15 [INFO]: Petite potion de soin a été utilisé par Grigri_rouge_gorge il a gagné 10 et a maintenant 34
+				02-07-2023 00:21:18 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:21:18 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:21:21 [INFO]: Papyrus a raté son attaque !
+				02-07-2023 00:21:21 [INFO]: Papyrus a perdu 6 PV !
+				02-07-2023 00:21:23 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:21:23 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				02-07-2023 00:21:26 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:21:26 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:21:28 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:21:28 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:21:30 [INFO]: Grigri_rouge_gorge a perdu 9 PV !
+				02-07-2023 00:21:30 [INFO]: Papyrus a perdu 3 PV !
+				02-07-2023 00:21:33 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:21:33 [INFO]: Grigri_rouge_gorge est mort !
+
+		02-07-2023 00:22:26 [COMMAND]: sollore#0 a utilisé la commande !combat !
+			02-07-2023 00:22:26 [INFO]: Grigri_rouge_gorge entre en combat !
+				02-07-2023 00:22:29 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:22:29 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:22:31 [INFO]: Froggit a raté son attaque !
+				02-07-2023 00:22:31 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:22:34 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:22:34 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:22:36 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				02-07-2023 00:22:36 [INFO]: Froggit a perdu 4 PV !
+				02-07-2023 00:22:39 [INFO]: Froggit a perdu 3 PV !
+				02-07-2023 00:22:39 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				02-07-2023 00:22:41 [INFO]: Froggit a perdu 4 PV !
+				02-07-2023 00:22:41 [INFO]: Grigri_rouge_gorge a perdu 3 PV !
+				02-07-2023 00:22:43 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:22:43 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:22:45 [INFO]: Grigri_rouge_gorge a perdu 3 PV !
+				02-07-2023 00:22:45 [INFO]: Froggit a perdu 4 PV !
+				02-07-2023 00:22:47 [INFO]: Froggit a raté son attaque !
+				02-07-2023 00:22:47 [INFO]: Froggit a perdu 4 PV !
+				02-07-2023 00:22:49 [INFO]: Grigri_rouge_gorge a perdu 6 PV !
+				02-07-2023 00:22:49 [INFO]: Froggit a perdu 8 PV !
+				02-07-2023 00:22:52 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:22:52 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:22:55 [INFO]: Froggit a perdu 8 PV !
+				02-07-2023 00:22:55 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				02-07-2023 00:23:00 [INFO]: Froggit a raté son attaque !
+				02-07-2023 00:23:00 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:23:04 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:23:04 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:23:05 [INFO]: Froggit a perdu 4 PV !
+				02-07-2023 00:23:05 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:23:08 [INFO]: Froggit a perdu 7 PV !
+				02-07-2023 00:23:08 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:23:10 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:23:10 [INFO]: Froggit a perdu 4 PV !
+				02-07-2023 00:23:13 [INFO]: Froggit a raté son attaque !
+				02-07-2023 00:23:13 [INFO]: Froggit a perdu 4 PV !
+				02-07-2023 00:23:15 [INFO]: Grigri_rouge_gorge a perdu 7 PV !
+				02-07-2023 00:23:15 [INFO]: Froggit a perdu 4 PV !
+				02-07-2023 00:23:17 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:23:17 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:23:19 [INFO]: Froggit a perdu 8 PV !
+				02-07-2023 00:23:19 [INFO]: Froggit est mort !
+					02-07-2023 00:23:20 [INFO]: Grigri_rouge_gorge a gagné 85 xp et 20 gold
+
+		02-07-2023 00:24:01 [COMMAND]: sollore#0 a utilisé la commande !combat !
+			02-07-2023 00:24:01 [INFO]: Grigri_rouge_gorge entre en combat !
+				02-07-2023 00:24:11 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:24:11 [INFO]: Aaron a perdu 7 PV !
+				02-07-2023 00:24:14 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:24:14 [INFO]: Aaron a perdu 3 PV !
+				02-07-2023 00:24:15 [INFO]: Aaron a perdu 7 PV !
+				02-07-2023 00:24:15 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				02-07-2023 00:24:17 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:24:18 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:24:20 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				02-07-2023 00:24:20 [INFO]: Aaron a perdu 8 PV !
+				02-07-2023 00:24:22 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				02-07-2023 00:24:22 [INFO]: Aaron a perdu 6 PV !
+				02-07-2023 00:24:24 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:24:24 [INFO]: Aaron a perdu 4 PV !
+				02-07-2023 00:24:26 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:24:26 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:24:29 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				02-07-2023 00:24:29 [INFO]: Aaron a perdu 3 PV !
+				02-07-2023 00:24:31 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				02-07-2023 00:24:31 [INFO]: Aaron a perdu 4 PV !
+				02-07-2023 00:24:34 [INFO]: Aaron a perdu 7 PV !
+				02-07-2023 00:24:34 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				02-07-2023 00:24:36 [INFO]: Aaron a perdu 7 PV !
+				02-07-2023 00:24:36 [INFO]: Aaron est mort !
+					02-07-2023 00:24:37 [INFO]: Grigri_rouge_gorge a gagné 75 xp et 10 gold
+
+		02-07-2023 00:25:06 [COMMAND]: sollore#0 a utilisé la commande !combat !
+			02-07-2023 00:25:06 [INFO]: Grigri_rouge_gorge entre en combat !
+				02-07-2023 00:25:11 [INFO]: Froggit a perdu 8 PV !
+				02-07-2023 00:25:11 [INFO]: Grigri_rouge_gorge a perdu 3 PV !
+				02-07-2023 00:25:14 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:25:14 [INFO]: Froggit a perdu 4 PV !
+				02-07-2023 00:25:16 [INFO]: Grigri_rouge_gorge a perdu 7 PV !
+				02-07-2023 00:25:16 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:25:18 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:25:18 [INFO]: Froggit a perdu 8 PV !
+				02-07-2023 00:25:20 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:25:20 [INFO]: Froggit a perdu 4 PV !
+				02-07-2023 00:25:23 [INFO]: Grigri_rouge_gorge a perdu 3 PV !
+				02-07-2023 00:25:23 [INFO]: Froggit a perdu 8 PV !
+				02-07-2023 00:25:25 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:25:25 [INFO]: Froggit a perdu 7 PV !
+				02-07-2023 00:25:27 [INFO]: Froggit a perdu 8 PV !
+				02-07-2023 00:25:27 [INFO]: Froggit a raté son attaque !
+				02-07-2023 00:25:29 [INFO]: Froggit a perdu 4 PV !
+				02-07-2023 00:25:29 [INFO]: Grigri_rouge_gorge a perdu 6 PV !
+				02-07-2023 00:25:31 [INFO]: Froggit a raté son attaque !
+				02-07-2023 00:25:31 [INFO]: Froggit a perdu 8 PV !
+				02-07-2023 00:25:35 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:25:35 [INFO]: Froggit a perdu 4 PV !
+				02-07-2023 00:25:38 [INFO]: Froggit a raté son attaque !
+				02-07-2023 00:25:38 [INFO]: Froggit a perdu 4 PV !
+				02-07-2023 00:25:38 [INFO]: Froggit est mort !
+					02-07-2023 00:25:39 [INFO]: Grigri_rouge_gorge a gagné 85 xp et 20 gold
+
+		02-07-2023 00:26:32 [COMMAND]: sollore#0 a utilisé la commande !combat !
+			02-07-2023 00:26:32 [INFO]: Grigri_rouge_gorge entre en combat !
+				02-07-2023 00:26:35 [INFO]: Commandogue a raté son attaque !
+				02-07-2023 00:26:35 [INFO]: Commandogue a perdu 4 PV !
+				02-07-2023 00:26:37 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				02-07-2023 00:26:37 [INFO]: Commandogue a perdu 4 PV !
+				02-07-2023 00:26:40 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:26:40 [INFO]: Commandogue a perdu 5 PV !
+				02-07-2023 00:26:41 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				02-07-2023 00:26:41 [INFO]: Commandogue a perdu 4 PV !
+				02-07-2023 00:26:45 [INFO]: Commandogue a perdu 4 PV !
+				02-07-2023 00:26:45 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:26:46 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:26:46 [INFO]: Commandogue a perdu 10 PV !
+				02-07-2023 00:26:48 [INFO]: Commandogue a perdu 4 PV !
+				02-07-2023 00:26:48 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:26:51 [INFO]: Grigri_rouge_gorge a perdu 3 PV !
+				02-07-2023 00:26:51 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:26:53 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				02-07-2023 00:26:53 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:26:56 [INFO]: Commandogue a perdu 10 PV !
+				02-07-2023 00:26:56 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:26:58 [INFO]: Commandogue a raté son attaque !
+				02-07-2023 00:26:58 [INFO]: Commandogue a perdu 4 PV !
+				02-07-2023 00:27:01 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				02-07-2023 00:27:01 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:27:04 [INFO]: Commandogue a perdu 4 PV !
+				02-07-2023 00:27:04 [INFO]: Commandogue est mort !
+					02-07-2023 00:27:04 [INFO]: Grigri_rouge_gorge a gagné 50 xp et 20 gold
+
+		02-07-2023 00:27:12 [COMMAND]: sollore#0 a utilisé la commande !combat !
+			02-07-2023 00:27:12 [INFO]: Grigri_rouge_gorge entre en combat !
+				02-07-2023 00:27:15 [INFO]: Froggit a raté son attaque !
+				02-07-2023 00:27:15 [INFO]: Froggit a perdu 4 PV !
+				02-07-2023 00:27:17 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:27:17 [INFO]: Froggit a perdu 4 PV !
+				02-07-2023 00:27:19 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:27:19 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:27:21 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:27:21 [INFO]: Froggit a perdu 3 PV !
+				02-07-2023 00:27:24 [INFO]: Froggit a raté son attaque !
+				02-07-2023 00:27:24 [INFO]: Froggit a perdu 3 PV !
+				02-07-2023 00:27:26 [INFO]: Froggit a raté son attaque !
+				02-07-2023 00:27:26 [INFO]: Froggit a perdu 8 PV !
+				02-07-2023 00:27:28 [INFO]: Froggit a perdu 4 PV !
+				02-07-2023 00:27:28 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:27:30 [INFO]: Froggit a perdu 4 PV !
+				02-07-2023 00:27:30 [INFO]: Grigri_rouge_gorge a perdu 3 PV !
+				02-07-2023 00:27:33 [INFO]: Froggit a perdu 4 PV !
+				02-07-2023 00:27:33 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:27:35 [INFO]: Froggit a perdu 4 PV !
+				02-07-2023 00:27:36 [INFO]: Froggit a raté son attaque !
+				02-07-2023 00:27:37 [INFO]: Grigri_rouge_gorge a perdu 6 PV !
+				02-07-2023 00:27:37 [INFO]: Froggit a perdu 4 PV !
+				02-07-2023 00:27:40 [INFO]: Froggit a raté son attaque !
+				02-07-2023 00:27:40 [INFO]: Froggit a perdu 4 PV !
+				02-07-2023 00:27:41 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:27:41 [INFO]: Froggit a perdu 8 PV !
+				02-07-2023 00:27:45 [INFO]: Froggit a perdu 8 PV !
+				02-07-2023 00:27:45 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:27:47 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				02-07-2023 00:27:47 [INFO]: Froggit a perdu 3 PV !
+				02-07-2023 00:27:47 [INFO]: Froggit est mort !
+					02-07-2023 00:27:47 [INFO]: Grigri_rouge_gorge a gagné 85 xp et 20 gold
+
+		02-07-2023 00:27:52 [COMMAND]: sollore#0 a utilisé la commande !combat !
+			02-07-2023 00:27:52 [INFO]: Grigri_rouge_gorge entre en combat !
+				02-07-2023 00:27:55 [INFO]: Aaron a raté son attaque !
+				02-07-2023 00:27:55 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:27:57 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				02-07-2023 00:27:57 [INFO]: Aaron a perdu 3 PV !
+				02-07-2023 00:27:59 [INFO]: Aaron a perdu 6 PV !
+				02-07-2023 00:27:59 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				02-07-2023 00:28:01 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				02-07-2023 00:28:01 [INFO]: Aaron a perdu 7 PV !
+				02-07-2023 00:28:03 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				02-07-2023 00:28:03 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:28:08 [INFO]: Aaron a perdu 4 PV !
+				02-07-2023 00:28:08 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:28:10 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				02-07-2023 00:28:11 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:28:13 [INFO]: Aaron a perdu 7 PV !
+				02-07-2023 00:28:13 [INFO]: Grigri_rouge_gorge a perdu 3 PV !
+				02-07-2023 00:28:15 [INFO]: Aaron a raté son attaque !
+				02-07-2023 00:28:15 [INFO]: Aaron a perdu 4 PV !
+				02-07-2023 00:28:18 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:28:19 [INFO]: Aaron a raté son attaque !
+				02-07-2023 00:28:21 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				02-07-2023 00:28:21 [INFO]: Aaron a perdu 4 PV !
+				02-07-2023 00:28:23 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:28:23 [INFO]: Aaron a perdu 3 PV !
+				02-07-2023 00:28:25 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				02-07-2023 00:28:25 [INFO]: Aaron a perdu 4 PV !
+				02-07-2023 00:28:27 [INFO]: Aaron a perdu 7 PV !
+				02-07-2023 00:28:27 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:28:29 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				02-07-2023 00:28:29 [INFO]: Aaron a perdu 3 PV !
+				02-07-2023 00:28:29 [INFO]: Aaron est mort !
+					02-07-2023 00:28:30 [INFO]: Grigri_rouge_gorge a gagné 75 xp et 10 gold
+
+		02-07-2023 00:28:37 [COMMAND]: sollore#0 a utilisé la commande !combat !
+			02-07-2023 00:28:37 [INFO]: Grigri_rouge_gorge entre en combat !
+				02-07-2023 00:28:40 [INFO]: Grigri_rouge_gorge a perdu 3 PV !
+				02-07-2023 00:28:40 [INFO]: Commandogue a perdu 9 PV !
+				02-07-2023 00:28:43 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				02-07-2023 00:28:43 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:28:45 [INFO]: Commandogue a perdu 4 PV !
+				02-07-2023 00:28:45 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				02-07-2023 00:28:47 [INFO]: Commandogue a raté son attaque !
+				02-07-2023 00:28:47 [INFO]: Commandogue a perdu 4 PV !
+				02-07-2023 00:28:50 [INFO]: Commandogue a perdu 5 PV !
+				02-07-2023 00:28:50 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				02-07-2023 00:28:52 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				02-07-2023 00:28:52 [INFO]: Commandogue a perdu 9 PV !
+				02-07-2023 00:28:57 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:28:57 [INFO]: Commandogue a perdu 8 PV !
+				02-07-2023 00:28:59 [INFO]: Commandogue a perdu 8 PV !
+				02-07-2023 00:28:59 [INFO]: Grigri_rouge_gorge a perdu 3 PV !
+				02-07-2023 00:29:01 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:29:01 [INFO]: Commandogue a perdu 9 PV !
+				02-07-2023 00:29:01 [INFO]: Commandogue est mort !
+					02-07-2023 00:29:01 [INFO]: Grigri_rouge_gorge a gagné 50 xp et 20 gold
+
+		02-07-2023 00:29:06 [COMMAND]: sollore#0 a utilisé la commande !combat !
+			02-07-2023 00:29:06 [INFO]: Grigri_rouge_gorge entre en combat !
+				02-07-2023 00:29:09 [INFO]: Commandogue a perdu 4 PV !
+				02-07-2023 00:29:09 [INFO]: Grigri_rouge_gorge a perdu 3 PV !
+				02-07-2023 00:29:11 [INFO]: Commandogue a perdu 5 PV !
+				02-07-2023 00:29:11 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				02-07-2023 00:29:14 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				02-07-2023 00:29:14 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:29:17 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:29:18 [INFO]: Commandogue a raté son attaque !
+				02-07-2023 00:29:20 [INFO]: Commandogue a perdu 4 PV !
+				02-07-2023 00:29:20 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				02-07-2023 00:29:24 [INFO]: Commandogue a perdu 8 PV !
+				02-07-2023 00:29:25 [INFO]: Commandogue a raté son attaque !
+				02-07-2023 00:29:26 [INFO]: Grigri_rouge_gorge a perdu 2 PV !
+				02-07-2023 00:29:26 [INFO]: Commandogue a perdu 9 PV !
+				02-07-2023 00:29:31 [INFO]: Commandogue a perdu 8 PV !
+				02-07-2023 00:29:31 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:29:33 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:29:33 [INFO]: Commandogue a perdu 4 PV !
+				02-07-2023 00:29:35 [INFO]: Grigri_rouge_gorge a perdu 3 PV !
+				02-07-2023 00:29:35 [INFO]: Commandogue a perdu 8 PV !
+				02-07-2023 00:29:35 [INFO]: Commandogue est mort !
+					02-07-2023 00:29:35 [INFO]: Grigri_rouge_gorge a gagné 50 xp et 20 gold
+
+		02-07-2023 00:29:41 [COMMAND]: sollore#0 a utilisé la commande !combat !
+			02-07-2023 00:29:41 [INFO]: Grigri_rouge_gorge entre en combat !
+				02-07-2023 00:29:45 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:29:45 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:29:48 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:29:48 [INFO]: Froggit a raté son attaque !
+				02-07-2023 00:29:50 [INFO]: Froggit a raté son attaque !
+				02-07-2023 00:29:50 [INFO]: Froggit a perdu 8 PV !
+				02-07-2023 00:29:52 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:29:52 [INFO]: Froggit a perdu 8 PV !
+				02-07-2023 00:29:55 [INFO]: Froggit a perdu 7 PV !
+				02-07-2023 00:29:55 [INFO]: Froggit a raté son attaque !
+				02-07-2023 00:29:57 [INFO]: Froggit a perdu 8 PV !
+				02-07-2023 00:29:57 [INFO]: Grigri_rouge_gorge a perdu 3 PV !
+				02-07-2023 00:29:59 [INFO]: Froggit a perdu 4 PV !
+				02-07-2023 00:29:59 [INFO]: Froggit a raté son attaque !
+				02-07-2023 00:30:01 [INFO]: Froggit a perdu 4 PV !
+				02-07-2023 00:30:01 [INFO]: Froggit a raté son attaque !
+				02-07-2023 00:30:04 [INFO]: Froggit a perdu 8 PV !
+				02-07-2023 00:30:04 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:31:20 [INFO]: Froggit a perdu 4 PV !
+				02-07-2023 00:31:21 [INFO]: Froggit a raté son attaque !
+				02-07-2023 00:31:23 [INFO]: Grigri_rouge_gorge a perdu 7 PV !
+				02-07-2023 00:31:23 [INFO]: Froggit a perdu 4 PV !
+				02-07-2023 00:31:25 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:31:25 [INFO]: Froggit a perdu 7 PV !
+				02-07-2023 00:31:28 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:31:28 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:31:31 [INFO]: Froggit a perdu 8 PV !
+				02-07-2023 00:31:31 [INFO]: Froggit est mort !
+					02-07-2023 00:31:31 [INFO]: Grigri_rouge_gorge a gagné 85 xp et 20 gold
+
+		02-07-2023 00:31:40 [COMMAND]: sollore#0 a utilisé la commande !combat !
+			02-07-2023 00:31:40 [INFO]: Grigri_rouge_gorge entre en combat !
+				02-07-2023 00:31:45 [INFO]: Calotte glacée a raté son attaque !
+				02-07-2023 00:31:45 [INFO]: Calotte glacée a perdu 3 PV !
+				02-07-2023 00:31:47 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:31:47 [INFO]: Calotte glacée a perdu 7 PV !
+				02-07-2023 00:31:49 [INFO]: Calotte glacée a perdu 7 PV !
+				02-07-2023 00:31:49 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:31:51 [INFO]: Grigri_rouge_gorge a perdu 7 PV !
+				02-07-2023 00:31:51 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:31:53 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:31:53 [INFO]: Calotte glacée a perdu 8 PV !
+				02-07-2023 00:31:55 [INFO]: Grigri_rouge_gorge a perdu 9 PV !
+				02-07-2023 00:31:55 [INFO]: Calotte glacée a perdu 3 PV !
+				02-07-2023 00:31:57 [INFO]: Calotte glacée a perdu 3 PV !
+				02-07-2023 00:31:57 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:31:59 [INFO]: Calotte glacée a perdu 3 PV !
+				02-07-2023 00:31:59 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:32:01 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				02-07-2023 00:32:02 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:32:05 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:32:05 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:32:09 [INFO]: Calotte glacée a perdu 6 PV !
+				02-07-2023 00:32:09 [INFO]: Grigri_rouge_gorge a perdu 7 PV !
+				02-07-2023 00:32:11 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:32:11 [INFO]: Calotte glacée a perdu 8 PV !
+				02-07-2023 00:32:14 [INFO]: Calotte glacée a perdu 3 PV !
+				02-07-2023 00:32:14 [INFO]: Calotte glacée a raté son attaque !
+				02-07-2023 00:32:16 [INFO]: Grigri_rouge_gorge a perdu 9 PV !
+				02-07-2023 00:32:16 [INFO]: Calotte glacée a perdu 7 PV !
+				02-07-2023 00:32:19 [INFO]: Calotte glacée a perdu 3 PV !
+				02-07-2023 00:32:19 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				02-07-2023 00:32:21 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:32:21 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:32:27 [INFO]: Calotte glacée a perdu 8 PV !
+				02-07-2023 00:32:27 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:32:30 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:32:30 [INFO]: Calotte glacée a perdu 3 PV !
+				02-07-2023 00:32:33 [INFO]: Calotte glacée a perdu 4 PV !
+				02-07-2023 00:32:33 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:32:36 [INFO]: Grigri_rouge_gorge a perdu 7 PV !
+				02-07-2023 00:32:36 [INFO]: Calotte glacée a perdu 8 PV !
+				02-07-2023 00:32:36 [INFO]: Grigri_rouge_gorge est mort !
+
+		02-07-2023 00:33:08 [COMMAND]: sollore#0 a utilisé la commande !combat !
+			02-07-2023 00:33:08 [INFO]: Grigri_rouge_gorge entre en combat !
+				02-07-2023 00:33:12 [INFO]: Calotte glacée a perdu 4 PV !
+				02-07-2023 00:33:12 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:33:15 [INFO]: Calotte glacée a raté son attaque !
+				02-07-2023 00:33:15 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:33:17 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:33:17 [INFO]: Calotte glacée a perdu 3 PV !
+				02-07-2023 00:33:19 [INFO]: Calotte glacée a perdu 3 PV !
+				02-07-2023 00:33:19 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				02-07-2023 00:33:21 [INFO]: Calotte glacée a perdu 7 PV !
+				02-07-2023 00:33:21 [INFO]: Calotte glacée a raté son attaque !
+				02-07-2023 00:33:24 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:33:24 [INFO]: Grigri_rouge_gorge a perdu 9 PV !
+				02-07-2023 00:33:28 [INFO]: Calotte glacée a perdu 7 PV !
+				02-07-2023 00:33:28 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:33:31 [INFO]: Calotte glacée a perdu 3 PV !
+				02-07-2023 00:33:31 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:33:34 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:33:34 [INFO]: Calotte glacée a perdu 3 PV !
+				02-07-2023 00:33:36 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:33:36 [INFO]: Calotte glacée a perdu 3 PV !
+				02-07-2023 00:33:38 [INFO]: Calotte glacée a perdu 3 PV !
+				02-07-2023 00:33:38 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:33:40 [INFO]: Calotte glacée a perdu 7 PV !
+				02-07-2023 00:33:40 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				02-07-2023 00:33:43 [INFO]: Grigri_rouge_gorge a perdu 7 PV !
+				02-07-2023 00:33:43 [INFO]: Calotte glacée a perdu 3 PV !
+				02-07-2023 00:33:44 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:33:44 [INFO]: Calotte glacée a perdu 4 PV !
+				02-07-2023 00:33:51 [INFO]: Petite potion de soin a été utilisé par Grigri_rouge_gorge il a gagné 10 et a maintenant 45
+				02-07-2023 00:33:54 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:33:54 [INFO]: Calotte glacée a perdu 7 PV !
+				02-07-2023 00:33:57 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:33:57 [INFO]: Calotte glacée a perdu 3 PV !
+				02-07-2023 00:34:00 [INFO]: Calotte glacée a perdu 3 PV !
+				02-07-2023 00:34:00 [INFO]: Calotte glacée a raté son attaque !
+				02-07-2023 00:34:03 [INFO]: Calotte glacée a perdu 7 PV !
+				02-07-2023 00:34:03 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:34:06 [INFO]: Grigri_rouge_gorge a perdu 9 PV !
+				02-07-2023 00:34:06 [INFO]: Calotte glacée a perdu 3 PV !
+				02-07-2023 00:34:08 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:34:08 [INFO]: Calotte glacée a perdu 3 PV !
+				02-07-2023 00:34:10 [INFO]: Calotte glacée a perdu 3 PV !
+				02-07-2023 00:34:10 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				02-07-2023 00:34:13 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				02-07-2023 00:34:13 [INFO]: Calotte glacée a perdu 6 PV !
+				02-07-2023 00:34:18 [INFO]: Petite potion de soin a été utilisé par Grigri_rouge_gorge il a gagné 10 et a maintenant 14
+				02-07-2023 00:34:23 [INFO]: Calotte glacée a perdu 3 PV !
+				02-07-2023 00:34:23 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:34:28 [INFO]: Petite potion de soin a été utilisé par Grigri_rouge_gorge il a gagné 10 et a maintenant 20
+				02-07-2023 00:34:30 [INFO]: Calotte glacée a raté son attaque !
+				02-07-2023 00:34:30 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:34:33 [INFO]: Calotte glacée a perdu 3 PV !
+				02-07-2023 00:34:33 [INFO]: Grigri_rouge_gorge a perdu 9 PV !
+				02-07-2023 00:34:35 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:34:35 [INFO]: Calotte glacée a perdu 3 PV !
+				02-07-2023 00:34:37 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				02-07-2023 00:34:37 [INFO]: Grigri_rouge_gorge est mort !
+
+		02-07-2023 00:35:11 [COMMAND]: sollore#0 a utilisé la commande !combat !
+			02-07-2023 00:35:11 [INFO]: Grigri_rouge_gorge entre en combat !
+				02-07-2023 00:35:14 [INFO]: Calotte glacée a perdu 3 PV !
+				02-07-2023 00:35:14 [INFO]: Grigri_rouge_gorge a perdu 7 PV !
+				02-07-2023 00:35:17 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:35:17 [INFO]: Calotte glacée a perdu 3 PV !
+				02-07-2023 00:35:19 [INFO]: Calotte glacée a perdu 7 PV !
+				02-07-2023 00:35:19 [INFO]: Grigri_rouge_gorge a perdu 9 PV !
+				02-07-2023 00:35:21 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:35:21 [INFO]: Calotte glacée a perdu 3 PV !
+				02-07-2023 00:35:23 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:35:23 [INFO]: Calotte glacée a perdu 4 PV !
+				02-07-2023 00:35:25 [INFO]: Calotte glacée a perdu 3 PV !
+				02-07-2023 00:35:25 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:35:28 [INFO]: Calotte glacée a raté son attaque !
+				02-07-2023 00:35:28 [INFO]: Calotte glacée a perdu 3 PV !
+				02-07-2023 00:35:30 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:35:30 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				02-07-2023 00:35:33 [INFO]: Calotte glacée a perdu 8 PV !
+				02-07-2023 00:35:33 [INFO]: Calotte glacée a raté son attaque !
+				02-07-2023 00:35:35 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:35:35 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:35:37 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:35:37 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:35:39 [INFO]: Calotte glacée a perdu 7 PV !
+				02-07-2023 00:35:39 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:35:43 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:35:43 [INFO]: Grigri_rouge_gorge a perdu 9 PV !
+				02-07-2023 00:35:45 [INFO]: Grigri_rouge_gorge a perdu 7 PV !
+				02-07-2023 00:35:45 [INFO]: Calotte glacée a perdu 3 PV !
+				02-07-2023 00:35:48 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:35:48 [INFO]: Calotte glacée a perdu 3 PV !
+				02-07-2023 00:35:51 [INFO]: Calotte glacée a perdu 3 PV !
+				02-07-2023 00:35:51 [INFO]: Calotte glacée a raté son attaque !
+				02-07-2023 00:35:53 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:35:53 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:35:56 [INFO]: Calotte glacée a perdu 8 PV !
+				02-07-2023 00:35:57 [INFO]: Calotte glacée a raté son attaque !
+				02-07-2023 00:35:59 [INFO]: Calotte glacée a raté son attaque !
+				02-07-2023 00:35:59 [INFO]: Calotte glacée a perdu 3 PV !
+				02-07-2023 00:36:02 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:36:02 [INFO]: Calotte glacée a perdu 7 PV !
+				02-07-2023 00:36:05 [INFO]: Grigri_rouge_gorge a perdu 9 PV !
+				02-07-2023 00:36:05 [INFO]: Calotte glacée a perdu 3 PV !
+				02-07-2023 00:36:10 [INFO]: Petite potion de soin a été utilisé par Grigri_rouge_gorge il a gagné 10 et a maintenant 17
+				02-07-2023 00:37:06 [INFO]: Petite potion de soin a été utilisé par Grigri_rouge_gorge il a gagné 10 et a maintenant 27
+				02-07-2023 00:37:08 [INFO]: Grigri_rouge_gorge a perdu 9 PV !
+				02-07-2023 00:37:08 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:37:10 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				02-07-2023 00:37:10 [INFO]: Calotte glacée a perdu 6 PV !
+				02-07-2023 00:37:17 [INFO]: Petite potion de soin a été utilisé par Grigri_rouge_gorge il a gagné 10 et a maintenant 20
+				02-07-2023 00:37:20 [INFO]: Calotte glacée a raté son attaque !
+				02-07-2023 00:37:20 [INFO]: Calotte glacée a perdu 3 PV !
+				02-07-2023 00:37:23 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				02-07-2023 00:37:23 [INFO]: Calotte glacée a perdu 3 PV !
+				02-07-2023 00:37:38 [INFO]: Calotte glacée a raté son attaque !
+				02-07-2023 00:37:38 [INFO]: Calotte glacée a perdu 7 PV !
+				02-07-2023 00:37:41 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				02-07-2023 00:37:41 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				02-07-2023 00:37:46 [INFO]: Petite potion de soin a été utilisé par Grigri_rouge_gorge il a gagné 10 et a maintenant 18
+				02-07-2023 00:37:48 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				02-07-2023 00:37:48 [INFO]: Calotte glacée a perdu 4 PV !
+				02-07-2023 00:37:51 [INFO]: Grigri_rouge_gorge a perdu 7 PV !
+				02-07-2023 00:37:51 [INFO]: Calotte glacée a perdu 4 PV !
+				02-07-2023 00:37:53 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				02-07-2023 00:37:53 [INFO]: Grigri_rouge_gorge est mort !
+
+
+	02-07-2023 08:17:21 [BOT]: Undertale Bot est lancé !
+		10-07-2023 18:06:51 [ERROR]: ayukogaming#0 a entré la commande !fight qui est invalide !
+		10-07-2023 18:07:03 [COMMAND]: ayukogaming#0 a utilisé la commande !tuto !
+			10-07-2023 18:07:03 [ERROR]: Ayuko a déjà fait le tutoriel !
+
+		10-07-2023 18:07:30 [COMMAND]: ayukogaming#0 a utilisé la commande !combat !
+			10-07-2023 18:07:30 [INFO]: Ayuko entre en combat !
+				10-07-2023 18:07:34 [INFO]: Toriel a perdu 12 PV !
+				10-07-2023 18:07:34 [INFO]: Ayuko a perdu 8 PV !
+				10-07-2023 18:07:37 [INFO]: Ayuko a perdu 8 PV !
+				10-07-2023 18:07:37 [INFO]: Toriel a perdu 14 PV !
+				10-07-2023 18:07:39 [INFO]: Toriel a perdu 7 PV !
+				10-07-2023 18:07:39 [INFO]: Ayuko a perdu 8 PV !
+				10-07-2023 18:07:42 [INFO]: Ayuko a raté son attaque !
+				10-07-2023 18:07:42 [INFO]: Ayuko a perdu 8 PV !
+				10-07-2023 18:07:52 [INFO]: Ayuko a perdu 15 PV !
+				10-07-2023 18:07:52 [INFO]: Ayuko a raté son attaque !
+				10-07-2023 18:07:58 [INFO]: Ayuko a perdu 13 PV !
+				10-07-2023 18:07:58 [INFO]: Toriel a perdu 6 PV !
+				10-07-2023 18:08:02 [INFO]: Toriel a perdu 14 PV !
+				10-07-2023 18:08:03 [INFO]: Toriel a raté son attaque !
+				10-07-2023 18:08:09 [INFO]: Toriel a raté son attaque !
+				10-07-2023 18:08:09 [INFO]: Toriel a perdu 14 PV !
+				10-07-2023 18:08:15 [INFO]: Toriel a perdu 14 PV !
+				10-07-2023 18:08:15 [INFO]: Toriel a raté son attaque !
+				10-07-2023 18:08:19 [INFO]: Toriel a perdu 7 PV !
+				10-07-2023 18:08:19 [INFO]: Toriel a raté son attaque !
+				10-07-2023 18:08:22 [INFO]: Toriel a perdu 14 PV !
+				10-07-2023 18:08:22 [INFO]: Toriel est mort !
+					10-07-2023 18:08:22 [INFO]: Ayuko a gagné 185 xp et 55 gold
+
+		10-07-2023 18:08:29 [COMMAND]: ayukogaming#0 a utilisé la commande !combat !
+			10-07-2023 18:08:29 [INFO]: Ayuko entre en combat !
+				10-07-2023 18:08:33 [INFO]: Ayuko a raté son attaque !
+				10-07-2023 18:08:33 [INFO]: Ayuko a perdu 7 PV !
+				10-07-2023 18:08:37 [INFO]: Toriel a raté son attaque !
+				10-07-2023 18:08:37 [INFO]: Toriel a perdu 12 PV !
+				10-07-2023 18:08:39 [INFO]: Ayuko a perdu 7 PV !
+				10-07-2023 18:08:39 [INFO]: Toriel a perdu 14 PV !
+				10-07-2023 18:08:44 [INFO]: Ayuko a perdu 7 PV !
+				10-07-2023 18:08:44 [INFO]: Ayuko a raté son attaque !
+				10-07-2023 18:08:49 [INFO]: Ayuko a perdu 13 PV !
+				10-07-2023 18:08:50 [INFO]: Ayuko a raté son attaque !
+				10-07-2023 18:08:56 [INFO]: Toriel a perdu 14 PV !
+				10-07-2023 18:08:56 [INFO]: Ayuko a perdu 8 PV !
+				10-07-2023 18:09:00 [INFO]: Ayuko a perdu 7 PV !
+				10-07-2023 18:09:01 [INFO]: Ayuko a raté son attaque !
+				10-07-2023 18:09:24 [INFO]: Toriel a perdu 6 PV !
+				10-07-2023 18:09:24 [INFO]: Ayuko a perdu 8 PV !
+				10-07-2023 18:09:26 [INFO]: Ayuko a perdu 8 PV !
+				10-07-2023 18:09:26 [INFO]: Toriel a perdu 7 PV !
+				10-07-2023 18:09:29 [INFO]: Toriel a raté son attaque !
+				10-07-2023 18:09:29 [INFO]: Toriel a perdu 7 PV !
+				10-07-2023 18:09:33 [INFO]: Toriel a perdu 8 PV !
+				10-07-2023 18:09:33 [INFO]: Ayuko a perdu 15 PV !
+				10-07-2023 18:09:35 [INFO]: Toriel a perdu 8 PV !
+				10-07-2023 18:09:36 [INFO]: Toriel a raté son attaque !
+				10-07-2023 18:09:39 [INFO]: Toriel a perdu 8 PV !
+				10-07-2023 18:09:39 [INFO]: Ayuko a perdu 7 PV !
+				10-07-2023 18:09:41 [INFO]: Ayuko a perdu 8 PV !
+				10-07-2023 18:09:42 [INFO]: Ayuko a raté son attaque !
+				10-07-2023 18:09:45 [INFO]: Toriel a raté son attaque !
+				10-07-2023 18:09:45 [INFO]: Toriel a perdu 7 PV !
+				10-07-2023 18:09:48 [INFO]: Toriel a perdu 6 PV !
+				10-07-2023 18:09:48 [INFO]: Ayuko a perdu 13 PV !
+				10-07-2023 18:09:48 [INFO]: Ayuko est mort !
+
+		10-07-2023 18:10:00 [COMMAND]: ayukogaming#0 a utilisé la commande !combat !
+			10-07-2023 18:10:00 [INFO]: Ayuko entre en combat !
+
+		10-07-2023 20:07:32 [COMMAND]: ayungaming#0 a utilisé la commande !combat !
+			10-07-2023 20:07:32 [INFO]: Ayun entre en combat !
+				10-07-2023 20:07:35 [INFO]: Froggit a perdu 8 PV !
+				10-07-2023 20:07:35 [INFO]: Ayun a perdu 4 PV !
+				10-07-2023 20:07:38 [INFO]: Froggit a raté son attaque !
+				10-07-2023 20:07:38 [INFO]: Froggit a perdu 4 PV !
+				10-07-2023 20:07:40 [INFO]: Ayun a perdu 7 PV !
+				10-07-2023 20:07:40 [INFO]: Froggit a perdu 3 PV !
+				10-07-2023 20:07:42 [INFO]: Froggit a raté son attaque !
+				10-07-2023 20:07:43 [INFO]: Ayun a raté son attaque !
+				10-07-2023 20:07:45 [INFO]: Froggit a perdu 3 PV !
+				10-07-2023 20:07:45 [INFO]: Froggit a raté son attaque !
+				10-07-2023 20:07:47 [INFO]: Froggit a perdu 3 PV !
+				10-07-2023 20:07:47 [INFO]: Ayun a perdu 4 PV !
+				10-07-2023 20:07:50 [INFO]: Ayun a raté son attaque !
+				10-07-2023 20:07:50 [INFO]: Ayun a perdu 4 PV !
+				10-07-2023 20:07:52 [INFO]: Ayun a perdu 7 PV !
+				10-07-2023 20:07:52 [INFO]: Froggit a perdu 3 PV !
+
+		10-07-2023 20:09:46 [COMMAND]: ayukogaming#0 a utilisé la commande !combat !
+			10-07-2023 20:09:46 [ERROR]: Ayuko est déjà en combat !
+
+		10-07-2023 21:46:19 [COMMAND]: ayukogaming#0 a utilisé la commande !combat !
+			10-07-2023 21:46:19 [INFO]: Ayuko entre en combat !
+				10-07-2023 21:46:23 [INFO]: Ayuko a perdu 7 PV !
+				10-07-2023 21:46:23 [INFO]: Calotte glacée a perdu 10 PV !
+				10-07-2023 21:46:28 [INFO]: Calotte glacée a perdu 4 PV !
+				10-07-2023 21:46:28 [INFO]: Ayuko a perdu 3 PV !
+				10-07-2023 21:46:31 [INFO]: Calotte glacée a perdu 5 PV !
+				10-07-2023 21:46:32 [INFO]: Calotte glacée a raté son attaque !
+				10-07-2023 21:46:35 [INFO]: Ayuko a perdu 3 PV !
+				10-07-2023 21:46:35 [INFO]: Calotte glacée a perdu 5 PV !
+				10-07-2023 21:46:37 [INFO]: Calotte glacée a raté son attaque !
+				10-07-2023 21:46:38 [INFO]: Ayuko a raté son attaque !
+				10-07-2023 21:46:40 [INFO]: Ayuko a perdu 3 PV !
+				10-07-2023 21:46:40 [INFO]: Calotte glacée a perdu 5 PV !
+				10-07-2023 21:46:43 [INFO]: Ayuko a perdu 7 PV !
+				10-07-2023 21:46:43 [INFO]: Calotte glacée a perdu 9 PV !
+				10-07-2023 21:46:46 [INFO]: Ayuko a perdu 3 PV !
+				10-07-2023 21:46:46 [INFO]: Calotte glacée a perdu 9 PV !
+				10-07-2023 21:46:50 [INFO]: Ayuko a perdu 4 PV !
+				10-07-2023 21:46:50 [INFO]: Calotte glacée a perdu 10 PV !
+				10-07-2023 21:46:52 [INFO]: Ayuko a perdu 7 PV !
+				10-07-2023 21:46:52 [INFO]: Calotte glacée a perdu 11 PV !
+				10-07-2023 21:46:54 [INFO]: Ayuko a perdu 3 PV !
+				10-07-2023 21:46:54 [INFO]: Ayuko a raté son attaque !
+				10-07-2023 21:46:56 [INFO]: Calotte glacée a perdu 5 PV !
+				10-07-2023 21:46:56 [INFO]: Ayuko a perdu 3 PV !
+				10-07-2023 21:46:58 [INFO]: Calotte glacée a perdu 9 PV !
+				10-07-2023 21:46:58 [INFO]: Ayuko a perdu 7 PV !
+				10-07-2023 21:47:00 [INFO]: Calotte glacée a perdu 11 PV !
+				10-07-2023 21:47:00 [INFO]: Ayuko a perdu 3 PV !
+				10-07-2023 21:47:03 [INFO]: Calotte glacée a perdu 5 PV !
+				10-07-2023 21:47:03 [INFO]: Ayuko a perdu 6 PV !
+				10-07-2023 21:47:05 [INFO]: Ayuko a perdu 4 PV !
+				10-07-2023 21:47:05 [INFO]: Calotte glacée a perdu 9 PV !
+				10-07-2023 21:47:05 [INFO]: Calotte glacée est mort !
+					10-07-2023 21:47:06 [INFO]: Ayuko a gagné 95 xp et 35 gold
+
+		10-07-2023 21:47:12 [COMMAND]: ayukogaming#0 a utilisé la commande !combat !
+			10-07-2023 21:47:13 [INFO]: Ayuko entre en combat !
+				10-07-2023 21:47:16 [INFO]: Calotte glacée a perdu 10 PV !
+				10-07-2023 21:47:16 [INFO]: Ayuko a perdu 8 PV !
+				10-07-2023 21:47:18 [INFO]: Ayuko a perdu 3 PV !
+				10-07-2023 21:47:18 [INFO]: Calotte glacée a perdu 10 PV !
+				10-07-2023 21:47:20 [INFO]: Calotte glacée a perdu 5 PV !
+				10-07-2023 21:47:20 [INFO]: Ayuko a perdu 3 PV !
+				10-07-2023 21:47:22 [INFO]: Ayuko a perdu 3 PV !
+				10-07-2023 21:47:22 [INFO]: Calotte glacée a perdu 5 PV !
+				10-07-2023 21:47:24 [INFO]: Ayuko a perdu 3 PV !
+				10-07-2023 21:47:24 [INFO]: Calotte glacée a perdu 5 PV !
+				10-07-2023 21:47:26 [INFO]: Calotte glacée a perdu 5 PV !
+				10-07-2023 21:47:26 [INFO]: Ayuko a perdu 3 PV !
+				10-07-2023 21:47:28 [INFO]: Ayuko a perdu 3 PV !
+				10-07-2023 21:47:28 [INFO]: Calotte glacée a perdu 5 PV !
+				10-07-2023 21:47:29 [INFO]: Ayuko a perdu 4 PV !
+				10-07-2023 21:47:29 [INFO]: Calotte glacée a perdu 5 PV !
+				10-07-2023 21:47:31 [INFO]: Calotte glacée a perdu 5 PV !
+				10-07-2023 21:47:31 [INFO]: Ayuko a perdu 6 PV !
+				10-07-2023 21:47:33 [INFO]: Calotte glacée a perdu 5 PV !
+				10-07-2023 21:47:33 [INFO]: Ayuko a perdu 8 PV !
+				10-07-2023 21:47:35 [INFO]: Calotte glacée a perdu 5 PV !
+				10-07-2023 21:47:35 [INFO]: Ayuko a perdu 3 PV !
+				10-07-2023 21:47:37 [INFO]: Calotte glacée a perdu 10 PV !
+				10-07-2023 21:47:37 [INFO]: Ayuko a perdu 7 PV !
+				10-07-2023 21:47:39 [INFO]: Calotte glacée a raté son attaque !
+				10-07-2023 21:47:39 [INFO]: Calotte glacée a perdu 4 PV !
+				10-07-2023 21:47:41 [INFO]: Calotte glacée a perdu 10 PV !
+				10-07-2023 21:47:41 [INFO]: Ayuko a perdu 4 PV !
+				10-07-2023 21:47:43 [INFO]: Calotte glacée a raté son attaque !
+				10-07-2023 21:47:43 [INFO]: Calotte glacée a perdu 5 PV !
+				10-07-2023 21:47:45 [INFO]: Calotte glacée a perdu 5 PV !
+				10-07-2023 21:47:46 [INFO]: Calotte glacée a raté son attaque !
+				10-07-2023 21:47:48 [INFO]: Ayuko a perdu 7 PV !
+				10-07-2023 21:47:48 [INFO]: Ayuko a raté son attaque !
+				10-07-2023 21:47:51 [INFO]: Ayuko a perdu 7 PV !
+				10-07-2023 21:47:51 [INFO]: Calotte glacée a perdu 11 PV !
+				10-07-2023 21:47:51 [INFO]: Calotte glacée est mort !
+					10-07-2023 21:47:51 [INFO]: Ayuko a gagné 95 xp et 35 gold
+
+		10-07-2023 21:47:58 [COMMAND]: ayukogaming#0 a utilisé la commande !combat !
+			10-07-2023 21:47:58 [INFO]: Ayuko entre en combat !
+				10-07-2023 21:48:01 [INFO]: Ayuko a perdu 4 PV !
+				10-07-2023 21:48:01 [INFO]: Papyrus a perdu 4 PV !
+				10-07-2023 21:48:03 [INFO]: Ayuko a perdu 4 PV !
+				10-07-2023 21:48:03 [INFO]: Papyrus a perdu 4 PV !
+				10-07-2023 21:48:05 [INFO]: Ayuko a perdu 4 PV !
+				10-07-2023 21:48:05 [INFO]: Papyrus a perdu 9 PV !
+				10-07-2023 21:48:07 [INFO]: Ayuko a perdu 4 PV !
+				10-07-2023 21:48:07 [INFO]: Papyrus a perdu 4 PV !
+				10-07-2023 21:48:09 [INFO]: Papyrus a raté son attaque !
+				10-07-2023 21:48:09 [INFO]: Papyrus a perdu 4 PV !
+				10-07-2023 21:48:13 [INFO]: Papyrus a perdu 9 PV !
+				10-07-2023 21:48:13 [INFO]: Ayuko a perdu 4 PV !
+				10-07-2023 21:48:14 [INFO]: Papyrus a perdu 8 PV !
+				10-07-2023 21:48:14 [INFO]: Ayuko a perdu 4 PV !
+				10-07-2023 21:48:16 [INFO]: Papyrus a perdu 4 PV !
+				10-07-2023 21:48:16 [INFO]: Ayuko a perdu 8 PV !
+				10-07-2023 21:48:18 [INFO]: Papyrus a perdu 4 PV !
+				10-07-2023 21:48:18 [INFO]: Ayuko a perdu 7 PV !
+				10-07-2023 21:48:21 [INFO]: Ayuko a perdu 4 PV !
+				10-07-2023 21:48:21 [INFO]: Papyrus a perdu 4 PV !
+				10-07-2023 21:48:23 [INFO]: Papyrus a perdu 4 PV !
+				10-07-2023 21:48:23 [INFO]: Ayuko a perdu 9 PV !
+				10-07-2023 21:48:25 [INFO]: Ayuko a perdu 7 PV !
+				10-07-2023 21:48:25 [INFO]: Papyrus a perdu 9 PV !
+				10-07-2023 21:48:28 [INFO]: Ayuko a perdu 4 PV !
+				10-07-2023 21:48:28 [INFO]: Papyrus a perdu 4 PV !
+				10-07-2023 21:48:29 [INFO]: Papyrus a perdu 9 PV !
+				10-07-2023 21:48:29 [INFO]: Ayuko a perdu 3 PV !
+				10-07-2023 21:48:31 [INFO]: Papyrus a perdu 5 PV !
+				10-07-2023 21:48:31 [INFO]: Ayuko a perdu 8 PV !
+				10-07-2023 21:48:31 [INFO]: Papyrus est mort !
+					10-07-2023 21:48:32 [INFO]: Ayuko a gagné 120 xp et 35 gold
+
+		10-07-2023 21:48:40 [COMMAND]: ayukogaming#0 a utilisé la commande !combat !
+			10-07-2023 21:48:40 [INFO]: Ayuko entre en combat !
+				10-07-2023 21:48:43 [INFO]: Froggit a perdu 5 PV !
+				10-07-2023 21:48:43 [INFO]: Ayuko a perdu 5 PV !
+				10-07-2023 21:48:46 [INFO]: Froggit a perdu 10 PV !
+				10-07-2023 21:48:46 [INFO]: Ayuko a perdu 3 PV !
+				10-07-2023 21:48:48 [INFO]: Froggit a perdu 5 PV !
+				10-07-2023 21:48:48 [INFO]: Ayuko a perdu 7 PV !
+				10-07-2023 21:48:51 [INFO]: Froggit a perdu 10 PV !
+				10-07-2023 21:48:51 [INFO]: Ayuko a perdu 3 PV !
+				10-07-2023 21:48:53 [INFO]: Froggit a perdu 11 PV !
+				10-07-2023 21:48:53 [INFO]: Froggit a raté son attaque !
+				10-07-2023 21:48:56 [INFO]: Froggit a raté son attaque !
+				10-07-2023 21:48:56 [INFO]: Froggit a perdu 10 PV !
+				10-07-2023 21:48:58 [INFO]: Froggit a perdu 6 PV !
+				10-07-2023 21:48:58 [INFO]: Froggit a raté son attaque !
+				10-07-2023 21:49:00 [INFO]: Froggit a perdu 6 PV !
+				10-07-2023 21:49:00 [INFO]: Ayuko a perdu 3 PV !
+				10-07-2023 21:49:03 [INFO]: Ayuko a perdu 3 PV !
+				10-07-2023 21:49:03 [INFO]: Ayuko a raté son attaque !
+				10-07-2023 21:49:05 [INFO]: Froggit a perdu 6 PV !
+				10-07-2023 21:49:05 [INFO]: Froggit est mort !
+					10-07-2023 21:49:06 [INFO]: Ayuko a gagné 85 xp et 20 gold
+
+		10-07-2023 21:49:17 [COMMAND]: ayukogaming#0 a utilisé la commande !combat !
+			10-07-2023 21:49:17 [INFO]: Ayuko entre en combat !
+				10-07-2023 21:49:20 [INFO]: Calotte glacée a perdu 4 PV !
+				10-07-2023 21:49:20 [INFO]: Ayuko a perdu 3 PV !
+				10-07-2023 21:49:22 [INFO]: Ayuko a perdu 4 PV !
+				10-07-2023 21:49:22 [INFO]: Calotte glacée a perdu 10 PV !
+				10-07-2023 21:49:24 [INFO]: Calotte glacée a perdu 9 PV !
+				10-07-2023 21:49:24 [INFO]: Ayuko a perdu 3 PV !
+				10-07-2023 21:49:26 [INFO]: Ayuko a perdu 8 PV !
+				10-07-2023 21:49:26 [INFO]: Calotte glacée a perdu 10 PV !
+				10-07-2023 21:49:28 [INFO]: Calotte glacée a perdu 5 PV !
+				10-07-2023 21:49:28 [INFO]: Ayuko a perdu 3 PV !
+				10-07-2023 21:49:30 [INFO]: Ayuko a perdu 3 PV !
+				10-07-2023 21:49:30 [INFO]: Ayuko a raté son attaque !
+				10-07-2023 21:49:32 [INFO]: Calotte glacée a perdu 4 PV !
+				10-07-2023 21:49:33 [INFO]: Calotte glacée a raté son attaque !
+				10-07-2023 21:49:35 [INFO]: Ayuko a perdu 8 PV !
+				10-07-2023 21:49:35 [INFO]: Ayuko a raté son attaque !
+				10-07-2023 21:49:37 [INFO]: Ayuko a perdu 7 PV !
+				10-07-2023 21:49:37 [INFO]: Calotte glacée a perdu 4 PV !
+				10-07-2023 21:49:39 [INFO]: Calotte glacée a perdu 5 PV !
+				10-07-2023 21:49:39 [INFO]: Ayuko a perdu 3 PV !
+				10-07-2023 21:49:41 [INFO]: Calotte glacée a perdu 5 PV !
+				10-07-2023 21:49:41 [INFO]: Ayuko a perdu 3 PV !
+				10-07-2023 21:49:43 [INFO]: Calotte glacée a perdu 5 PV !
+				10-07-2023 21:49:43 [INFO]: Ayuko a perdu 3 PV !
+				10-07-2023 21:49:46 [INFO]: Calotte glacée a perdu 5 PV !
+				10-07-2023 21:49:46 [INFO]: Ayuko a perdu 3 PV !
+				10-07-2023 21:49:48 [INFO]: Calotte glacée a raté son attaque !
+				10-07-2023 21:49:48 [INFO]: Calotte glacée a perdu 5 PV !
+				10-07-2023 21:49:50 [INFO]: Calotte glacée a perdu 4 PV !
+				10-07-2023 21:49:50 [INFO]: Ayuko a perdu 3 PV !
+				10-07-2023 21:49:52 [INFO]: Ayuko a perdu 4 PV !
+				10-07-2023 21:49:52 [INFO]: Calotte glacée a perdu 11 PV !
+				10-07-2023 21:49:54 [INFO]: Ayuko a perdu 3 PV !
+				10-07-2023 21:49:54 [INFO]: Ayuko a raté son attaque !
+				10-07-2023 21:49:56 [INFO]: Calotte glacée a perdu 5 PV !
+				10-07-2023 21:49:56 [INFO]: Ayuko a perdu 4 PV !
+				10-07-2023 21:49:58 [INFO]: Calotte glacée a raté son attaque !
+				10-07-2023 21:49:58 [INFO]: Calotte glacée a perdu 11 PV !
+				10-07-2023 21:49:58 [INFO]: Calotte glacée est mort !
+					10-07-2023 21:49:58 [INFO]: Ayuko a gagné 95 xp et 35 gold
+
+		12-07-2023 19:53:15 [COMMAND]: sollore#0 a utilisé la commande !combat !
+			12-07-2023 19:53:15 [INFO]: Grigri_rouge_gorge entre en combat !
+				12-07-2023 19:53:18 [INFO]: Papyrus a perdu 3 PV !
+				12-07-2023 19:53:18 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				12-07-2023 19:53:22 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				12-07-2023 19:53:22 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				12-07-2023 19:53:24 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				12-07-2023 19:53:24 [INFO]: Papyrus a perdu 3 PV !
+				12-07-2023 19:53:27 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				12-07-2023 19:53:27 [INFO]: Papyrus a perdu 6 PV !
+				12-07-2023 19:53:42 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				12-07-2023 19:53:42 [INFO]: Papyrus a perdu 3 PV !
+				12-07-2023 19:53:45 [INFO]: Papyrus a perdu 3 PV !
+				12-07-2023 19:53:45 [INFO]: Papyrus a raté son attaque !
+				12-07-2023 19:53:47 [INFO]: Papyrus a perdu 3 PV !
+				12-07-2023 19:53:47 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				12-07-2023 19:53:51 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				12-07-2023 19:53:52 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				12-07-2023 19:53:54 [INFO]: Papyrus a perdu 7 PV !
+				12-07-2023 19:53:54 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				12-07-2023 19:55:19 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				12-07-2023 19:55:20 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				12-07-2023 19:55:22 [INFO]: Grigri_rouge_gorge a perdu 9 PV !
+				12-07-2023 19:55:22 [INFO]: Papyrus a perdu 3 PV !
+				12-07-2023 19:55:43 [INFO]: Papyrus a perdu 3 PV !
+				12-07-2023 19:55:43 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				12-07-2023 19:55:55 [INFO]: Papyrus a perdu 7 PV !
+				12-07-2023 19:55:55 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				12-07-2023 19:55:58 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				12-07-2023 19:55:58 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				12-07-2023 19:56:01 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				12-07-2023 19:56:01 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				12-07-2023 19:56:12 [INFO]: Petite potion de soin a été utilisé par Grigri_rouge_gorge il a gagné 10 et a maintenant 35
+				12-07-2023 19:57:01 [INFO]: Grigri_rouge_gorge a perdu 9 PV !
+				12-07-2023 19:57:01 [INFO]: Papyrus a perdu 5 PV !
+				12-07-2023 19:57:15 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				12-07-2023 19:57:15 [INFO]: Papyrus a perdu 3 PV !
+				12-07-2023 19:57:23 [INFO]: Grigri_rouge_gorge a perdu 9 PV !
+				12-07-2023 19:57:23 [INFO]: Papyrus a perdu 3 PV !
+				12-07-2023 19:57:30 [INFO]: Petite potion de soin a été utilisé par Grigri_rouge_gorge il a gagné 10 et a maintenant 22
+				12-07-2023 19:57:33 [INFO]: Papyrus a perdu 5 PV !
+				12-07-2023 19:57:33 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				12-07-2023 19:57:36 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				12-07-2023 19:57:36 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				12-07-2023 19:57:41 [INFO]: Papyrus a raté son attaque !
+				12-07-2023 19:57:41 [INFO]: Papyrus a perdu 3 PV !
+				12-07-2023 19:57:45 [INFO]: Grigri_rouge_gorge n'a pas réussi à prendre la fuite !
+				12-07-2023 19:57:45 [INFO]: Grigri_rouge_gorge a perdu 0 PV !
+				12-07-2023 19:58:55 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				12-07-2023 19:58:55 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				12-07-2023 19:59:51 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				12-07-2023 19:59:51 [INFO]: Grigri_rouge_gorge est mort !
+
+
+	15-07-2023 17:11:42 [BOT]: Undertale Bot est lancé !
+		29-07-2023 00:04:21 [COMMAND]: sollore#0 a utilisé la commande !combat !
+			29-07-2023 00:04:21 [INFO]: Grigri_rouge_gorge entre en combat !
+				29-07-2023 00:04:23 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				29-07-2023 00:04:24 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				29-07-2023 00:04:27 [INFO]: Froggit a perdu 4 PV !
+				29-07-2023 00:04:27 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				29-07-2023 00:04:29 [INFO]: Froggit a perdu 8 PV !
+				29-07-2023 00:04:29 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				29-07-2023 00:04:31 [INFO]: Froggit a perdu 7 PV !
+				29-07-2023 00:04:31 [INFO]: Froggit a raté son attaque !
+				29-07-2023 00:04:36 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				29-07-2023 00:04:36 [INFO]: Froggit a perdu 4 PV !
+				29-07-2023 00:04:38 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				29-07-2023 00:04:38 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				29-07-2023 00:04:40 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				29-07-2023 00:04:40 [INFO]: Froggit a perdu 4 PV !
+				29-07-2023 00:04:43 [INFO]: Froggit a perdu 8 PV !
+				29-07-2023 00:04:43 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				29-07-2023 00:04:45 [INFO]: Froggit a raté son attaque !
+				29-07-2023 00:04:46 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				29-07-2023 00:04:48 [INFO]: Froggit a perdu 4 PV !
+				29-07-2023 00:04:48 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				29-07-2023 00:04:50 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				29-07-2023 00:04:50 [INFO]: Froggit a perdu 8 PV !
+				29-07-2023 00:04:52 [INFO]: Grigri_rouge_gorge a perdu 3 PV !
+				29-07-2023 00:04:52 [INFO]: Froggit a perdu 4 PV !
+				29-07-2023 00:04:54 [INFO]: Froggit a perdu 4 PV !
+				29-07-2023 00:04:54 [INFO]: Grigri_rouge_gorge a perdu 6 PV !
+				29-07-2023 00:04:57 [INFO]: Froggit a perdu 4 PV !
+				29-07-2023 00:04:57 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				29-07-2023 00:04:59 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				29-07-2023 00:04:59 [INFO]: Froggit a perdu 4 PV !
+				29-07-2023 00:05:01 [INFO]: Froggit a raté son attaque !
+				29-07-2023 00:05:01 [INFO]: Froggit a perdu 4 PV !
+				29-07-2023 00:05:01 [INFO]: Froggit est mort !
+					29-07-2023 00:05:02 [INFO]: Grigri_rouge_gorge a gagné 85 xp et 20 gold
+
+		29-07-2023 00:05:09 [COMMAND]: sollore#0 a utilisé la commande !combat !
+			29-07-2023 00:05:09 [INFO]: Grigri_rouge_gorge entre en combat !
+				29-07-2023 00:05:21 [INFO]: Calotte glacée a raté son attaque !
+				29-07-2023 00:05:21 [INFO]: Calotte glacée a perdu 3 PV !
+				29-07-2023 00:05:24 [INFO]: Grigri_rouge_gorge a perdu 9 PV !
+				29-07-2023 00:05:24 [INFO]: Calotte glacée a perdu 3 PV !
+				29-07-2023 00:05:26 [INFO]: Calotte glacée a raté son attaque !
+				29-07-2023 00:05:26 [INFO]: Calotte glacée a perdu 7 PV !
+				29-07-2023 00:05:29 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				29-07-2023 00:05:30 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				29-07-2023 00:05:33 [INFO]: Calotte glacée a raté son attaque !
+				29-07-2023 00:05:33 [INFO]: Calotte glacée a perdu 3 PV !
+				29-07-2023 00:05:35 [INFO]: Calotte glacée a raté son attaque !
+				29-07-2023 00:05:35 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				29-07-2023 00:05:38 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				29-07-2023 00:05:38 [INFO]: Calotte glacée a perdu 7 PV !
+				29-07-2023 00:05:40 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				29-07-2023 00:05:40 [INFO]: Calotte glacée a perdu 3 PV !
+				29-07-2023 00:05:58 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				29-07-2023 00:05:58 [INFO]: Calotte glacée a perdu 3 PV !
+				29-07-2023 00:06:00 [INFO]: Grigri_rouge_gorge a perdu 9 PV !
+				29-07-2023 00:06:00 [INFO]: Calotte glacée a perdu 3 PV !
+				29-07-2023 00:06:02 [INFO]: Grigri_rouge_gorge a perdu 9 PV !
+				29-07-2023 00:06:02 [INFO]: Calotte glacée a perdu 4 PV !
+				29-07-2023 00:06:04 [INFO]: Calotte glacée a perdu 4 PV !
+				29-07-2023 00:06:04 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				29-07-2023 00:06:07 [INFO]: Calotte glacée a perdu 4 PV !
+				29-07-2023 00:06:07 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				29-07-2023 00:06:10 [INFO]: Grigri_rouge_gorge a raté son attaque !
+				29-07-2023 00:06:10 [INFO]: Grigri_rouge_gorge a perdu 7 PV !
+				29-07-2023 00:06:13 [INFO]: Calotte glacée a perdu 6 PV !
+				29-07-2023 00:06:13 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				29-07-2023 00:06:14 [INFO]: Calotte glacée a perdu 8 PV !
+				29-07-2023 00:06:14 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				29-07-2023 00:06:18 [INFO]: Calotte glacée a raté son attaque !
+				29-07-2023 00:06:18 [INFO]: Calotte glacée a perdu 3 PV !
+				29-07-2023 00:06:20 [INFO]: Calotte glacée a perdu 3 PV !
+				29-07-2023 00:06:20 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				29-07-2023 00:06:22 [INFO]: Grigri_rouge_gorge a perdu 5 PV !
+				29-07-2023 00:06:22 [INFO]: Calotte glacée a perdu 3 PV !
+				29-07-2023 00:06:24 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				29-07-2023 00:06:24 [INFO]: Calotte glacée a perdu 4 PV !
+				29-07-2023 00:06:26 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				29-07-2023 00:06:26 [INFO]: Calotte glacée a perdu 3 PV !
+				29-07-2023 00:06:28 [INFO]: Calotte glacée a perdu 3 PV !
+				29-07-2023 00:06:28 [INFO]: Grigri_rouge_gorge a perdu 4 PV !
+				29-07-2023 00:06:31 [INFO]: Grigri_rouge_gorge a perdu 8 PV !
+				29-07-2023 00:06:31 [INFO]: Grigri_rouge_gorge est mort !
+
+		04-08-2023 12:37:15 [COMMAND]: error_sans0143#0 a utilisé la commande !start !
+			04-08-2023 12:37:15 [SUCCESS]: Le profil de error_sans0143#0 a bien été créé !
+
+		04-08-2023 12:37:36 [COMMAND]: error_sans0143#0 a utilisé la commande !tuto !
+			04-08-2023 12:37:36 [SUCCESS]: la_journalist a obtenu 1 Tarte de Toriel
+
+		04-08-2023 12:41:50 [COMMAND]: error_sans0143#0 a utilisé la commande !combat !
+		04-08-2023 12:43:04 [COMMAND]: error_sans0143#0 a utilisé la commande !combat !
+			04-08-2023 12:43:04 [INFO]: la_journalist entre en combat !
+				04-08-2023 12:43:16 [INFO]: la_journalist a perdu 4 PV !
+				04-08-2023 12:43:16 [INFO]: Papyrus a perdu 3 PV !
+				04-08-2023 12:43:29 [INFO]: Papyrus a perdu 3 PV !
+				04-08-2023 12:43:29 [INFO]: la_journalist a perdu 8 PV !
+				04-08-2023 12:43:38 [INFO]: la_journalist a perdu 4 PV !
+				04-08-2023 12:43:38 [INFO]: Papyrus a perdu 3 PV !
+				04-08-2023 12:43:49 [INFO]: la_journalist a perdu 5 PV !
+				04-08-2023 12:43:49 [INFO]: Papyrus a perdu 3 PV !
+				04-08-2023 12:43:58 [INFO]: Papyrus a perdu 3 PV !
+				04-08-2023 12:43:58 [INFO]: la_journalist a perdu 5 PV !
+				04-08-2023 12:44:06 [INFO]: la_journalist a raté son attaque !
+				04-08-2023 12:44:06 [INFO]: la_journalist a perdu 5 PV !
+				04-08-2023 12:44:19 [INFO]: la_journalist a perdu 5 PV !
+				04-08-2023 12:44:19 [INFO]: Papyrus a perdu 3 PV !
+				04-08-2023 12:44:26 [INFO]: Papyrus a perdu 3 PV !
+				04-08-2023 12:44:26 [INFO]: la_journalist a perdu 5 PV !
+				04-08-2023 12:44:38 [INFO]: Petite potion de soin a été utilisé par la_journalist il a gagné 10 HP et a maintenant 69 HP
+				04-08-2023 12:44:42 [INFO]: Papyrus a perdu 3 PV !
+				04-08-2023 12:44:42 [INFO]: la_journalist a perdu 5 PV !
+				04-08-2023 12:44:47 [INFO]: Papyrus a perdu 7 PV !
+				04-08-2023 12:44:47 [INFO]: la_journalist a perdu 5 PV !
+				04-08-2023 12:44:52 [INFO]: Papyrus a perdu 7 PV !
+				04-08-2023 12:44:52 [INFO]: la_journalist a perdu 9 PV !
+				04-08-2023 12:44:57 [INFO]: Papyrus a perdu 6 PV !
+				04-08-2023 12:44:57 [INFO]: Papyrus a raté son attaque !
+				04-08-2023 12:45:16 [INFO]: la_journalist a perdu 5 PV !
+				04-08-2023 12:45:16 [INFO]: Papyrus a perdu 3 PV !
+				04-08-2023 12:45:26 [INFO]: la_journalist a perdu 10 PV !
+				04-08-2023 12:45:26 [INFO]: la_journalist a raté son attaque !
+				04-08-2023 12:45:32 [INFO]: Papyrus a perdu 3 PV !
+				04-08-2023 12:45:32 [INFO]: la_journalist a perdu 5 PV !
+				04-08-2023 12:45:37 [INFO]: Papyrus a perdu 6 PV !
+				04-08-2023 12:45:37 [INFO]: la_journalist a perdu 9 PV !
+				04-08-2023 12:45:45 [INFO]: la_journalist a perdu 8 PV !
+				04-08-2023 12:45:45 [INFO]: la_journalist a raté son attaque !
+				04-08-2023 12:45:55 [INFO]: la_journalist n'a pas réussi à prendre la fuite !
+				04-08-2023 12:45:55 [INFO]: la_journalist a perdu 5 PV !
+				04-08-2023 12:46:09 [INFO]: Petite potion de soin a été utilisé par la_journalist il a gagné 10 HP et a maintenant 18 HP
+				04-08-2023 12:46:14 [INFO]: la_journalist a perdu 9 PV !
+				04-08-2023 12:46:14 [INFO]: Papyrus a perdu 3 PV !
+				04-08-2023 12:46:28 [INFO]: Petite potion de soin a été utilisé par la_journalist il a gagné 10 HP et a maintenant 19 HP
+				04-08-2023 12:46:38 [INFO]: Petite potion de soin a été utilisé par la_journalist il a gagné 10 HP et a maintenant 29 HP
+				04-08-2023 12:46:42 [INFO]: Papyrus a perdu 3 PV !
+				04-08-2023 12:46:42 [INFO]: la_journalist a perdu 5 PV !
+				04-08-2023 12:46:49 [INFO]: Papyrus a perdu 3 PV !
+				04-08-2023 12:46:49 [INFO]: la_journalist a perdu 5 PV !
+				04-08-2023 12:46:59 [INFO]: Papyrus a perdu 3 PV !
+				04-08-2023 12:46:59 [INFO]: la_journalist a perdu 4 PV !
+				04-08-2023 12:47:06 [INFO]: Papyrus a perdu 3 PV !
+				04-08-2023 12:47:06 [INFO]: la_journalist a perdu 5 PV !
+				04-08-2023 12:47:13 [INFO]: Petite potion de soin a été utilisé par la_journalist il a gagné 10 HP et a maintenant 20 HP
+				04-08-2023 12:47:17 [INFO]: Papyrus a perdu 3 PV !
+				04-08-2023 12:47:17 [INFO]: la_journalist a perdu 5 PV !
+				04-08-2023 12:47:23 [INFO]: la_journalist a raté son attaque !
+				04-08-2023 12:47:23 [INFO]: la_journalist a perdu 5 PV !
+				04-08-2023 12:47:27 [INFO]: Papyrus a perdu 6 PV !
+				04-08-2023 12:47:27 [INFO]: la_journalist a perdu 4 PV !
+				04-08-2023 12:47:38 [INFO]: Petite potion de soin a été utilisé par la_journalist il a gagné 10 HP et a maintenant 16 HP
+				04-08-2023 12:47:41 [INFO]: Papyrus a perdu 5 PV !
+				04-08-2023 12:47:41 [INFO]: la_journalist a perdu 9 PV !
+				04-08-2023 12:47:41 [INFO]: Papyrus est mort !
+					04-08-2023 12:47:41 [INFO]: la_journalist a gagné 120 xp et 35 gold
+
+
+
+	11-08-2023 20:14:59 [BOT]: Undertale Bot est lancé !
+
+
+	09-09-2023 16:02:29 [BOT]: Undertale Bot est lancé !
+
+
+	09-09-2023 16:04:04 [BOT]: Undertale Bot est lancé !
+
+
+	09-09-2023 16:13:10 [BOT]: Undertale Bot est lancé !
+
+
+	22-09-2023 18:52:15 [BOT]: Undertale Bot est lancé !
+
+
+	10-01-2024 10:23:05 [BOT]: Undertale Bot est lancé !
+		10-01-2024 10:23:22 [COMMAND]: ayungaming a utilisé la commande !profil !

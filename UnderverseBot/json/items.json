@@ -1,0 +1,22 @@
+{
+    "items": [
+        {
+            "nom": "Tarte de Toriel",
+            "description": "Une delicieuse tarte confectionnee par Toriel !",
+            "effet": "HEAL",
+            "ampleur": 75
+        },
+        {
+            "nom": "Petite potion de soin",
+            "description": "Une potion utile pour te soigner 10 HP",
+            "effet": "HEAL",
+            "ampleur": 10
+        },
+        {
+            "nom": "Potion de soin moyenne",
+            "description": "Une potion qui te soignera 25 HP",
+            "effet": "HEAL",
+            "ampleur":25
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+ToDo:
+
+
+RPG system:
+
+    - Story
+    - Map system (region)
+
+
+RPG system optional:
+
+    - Reset profil
+
+
+Utility:
+
+    - Passer en slash commands
+    - Change prefix
+
+
+Future:
+
+    - Difficulty system
